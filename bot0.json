@@ -49,7 +49,7 @@
         "questionscount" : 0,
         "filename" : "",
         "isExitPoint" : false,
-        "nextBubbleId" : -1,
+        "nextBubbleId" : -2,
         "delay" : 1
     },
     {
