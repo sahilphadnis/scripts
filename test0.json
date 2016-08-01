@@ -46,7 +46,7 @@
                 "filename" : ""
             }
         ],
-        "isEntryPointForNewTest" : true,
+        "isEntryPointForNewTest" : false,
         "questionscount" : 2,
         "filename" : "",
         "isExitPoint" : false,
