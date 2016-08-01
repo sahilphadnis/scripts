@@ -1,0 +1,56 @@
+{
+    "Bubbles" : [ 
+    {
+        "id" : 0,
+        "text" : "Question 1",
+        "responseType" : 1, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 1,
+        "answers" : [
+            {
+                "id" : 0,
+                "text"  : "Answer",
+                "answerType" : 1,  // 0 - Text, 1 - ScoreText
+                "nextBubbleId" : 1,
+                "score" : 1,
+                "isEntryPointForNewBot" : false,
+                "isEntryPointForNewTest" : false,
+                "questionscount" : 0,
+                "filename" : ""
+            }
+        ],
+        "isEntryPointForNewTest" : false,
+        "questionscount" : 0,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : -1,
+        "delay" : 1
+    },
+    {
+        "id" : 1,
+        "text" : "Question 2",
+        "responseType" : 1, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 1,
+        "answers" : [
+			{
+                "id" : 0,
+                "text"  : "Answer 1",
+                "answerType" : 1,  // 0 - Text, 1 - ScoreText
+                "nextBubbleId" : 1,
+                "score" : 1,
+                "isEntryPointForNewBot" : false,
+                "isEntryPointForNewTest" : false,
+                "questionscount" : 0,
+                "filename" : ""
+            }
+        ],
+        "isEntryPointForNewTest" : true,
+        "questionscount" : 2,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : 1,
+        "delay" : 1
+    }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "BotId" : 0,
+
+    "Bubbles" : [ {
+        "id" : 0,
+        "text" : "Bubble 0",
+        "responseType" : 0, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 0,
+        "answers" : [],
+        "isEntryPointForNewTest" : false,
+        "questionscount" : 0,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : 1,
+        "delay" : 1
+    },
+    {
+        "id" : 1,
+        "text" : "Bubble 1",
+        "responseType" : 1, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 2,
+        "answers" : [
+            {
+                "id" : 0,
+                "text"  : "Go to new bot!",
+                "answerType" : 0,  // 0 - Text, 1 - ScoreText
+                "nextBubbleId" : 2,
+                "score" : 0,
+                "isEntryPointForNewBot" : false,
+                "isEntryPointForNewTest" : true,
+                "questionscount" : 2,
+                "filename" : "test0"
+            } ,
+            {
+                "id" : 0,
+                "text"  : "Go to new Test!",
+                "answerType" : 0,  // 0 - Text, 1 - ScoreText
+                "nextBubbleId" : -1,
+                "score" : 0,
+                "isEntryPointForNewBot" : true,
+                "isEntryPointForNewTest" : false,
+                "questionscount" : 0,
+                "filename" : ""
+            }
+        ],
+        "isEntryPointForNewTest" : false,
+        "questionscount" : 0,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : -1,
+        "delay" : 1
+    },
+    {
+        "id" : 2,
+        "text" : "Buffer Bubble at 2",
+        "responseType" : 0, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 0,
+        "answers" : [],
+        "isEntryPointForNewTest" : false,
+        "questionscount" : 0,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : 3,
+        "delay" : 1
+    },
+    {
+        "id" : 3,
+        "text" : "New Bot Will start now! Better be ready :D",
+        "responseType" : 0, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 0,
+        "answers" : [],
+        "isEntryPointForNewTest" : true,
+        "questionscount" : 2,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : 4,
+        "delay" : 1
+    },
+    {
+        "id" : 4,
+        "text" : "The End!",
+        "responseType" : 0, // 0 - None, 1 - Tap
+        "mediaUrl" : "",
+        "optionsCount" : 0,
+        "answers" : [],
+        "isEntryPointForNewTest" : true,
+        "questionscount" : 2,
+        "filename" : "",
+        "isExitPoint" : false,
+        "nextBubbleId" : -2,
+        "delay" : 1
+    }
+    ]
+}
