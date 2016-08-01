@@ -4,7 +4,7 @@
     "Bubbles" : [ {
         "id" : 0,
         "text" : "Bubble 0",
-        "responseType" : 0, // 0 - None, 1 - Tap
+        "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [],
@@ -18,14 +18,14 @@
     {
         "id" : 1,
         "text" : "Bubble 1",
-        "responseType" : 1, // 0 - None, 1 - Tap
+        "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 2,
         "answers" : [
             {
                 "id" : 0,
                 "text"  : "Go to new bot!",
-                "answerType" : 0,  // 0 - Text, 1 - ScoreText
+                "answerType" : 0,
                 "nextBubbleId" : 2,
                 "score" : 0,
                 "isEntryPointForNewBot" : false,
@@ -36,7 +36,7 @@
             {
                 "id" : 0,
                 "text"  : "Go to new Test!",
-                "answerType" : 0,  // 0 - Text, 1 - ScoreText
+                "answerType" : 0,
                 "nextBubbleId" : -1,
                 "score" : 0,
                 "isEntryPointForNewBot" : true,
@@ -55,7 +55,7 @@
     {
         "id" : 2,
         "text" : "Buffer Bubble at 2",
-        "responseType" : 0, // 0 - None, 1 - Tap
+        "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [],
@@ -69,7 +69,7 @@
     {
         "id" : 3,
         "text" : "New Bot Will start now! Better be ready :D",
-        "responseType" : 0, // 0 - None, 1 - Tap
+        "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [],
@@ -83,7 +83,7 @@
     {
         "id" : 4,
         "text" : "The End!",
-        "responseType" : 0, // 0 - None, 1 - Tap
+        "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [],

@@ -4,7 +4,7 @@
         {
         "id" : 0,
         "text" : "Bubble 0 of Bot 1",
-        "responseType" : 0, // 0 - None, 1 - Tap
+        "responseType" : 0, 
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [],
@@ -18,14 +18,14 @@
     {
         "id" : 1,
         "text" : "Bubble 1 of Bot 1",
-        "responseType" : 0, // 0 - None, 1 - Tap
+        "responseType" : 0, 
         "mediaUrl" : "",
         "optionsCount" : 1,
         "answers" : [
             {
                 "id" : 0,
                 "text"  : "Answer 1 - Exits",
-                "answerType" : 1,  // 0 - Text, 1 - ScoreText
+                "answerType" : 1,
                 "nextBubbleId" : -1,
                 "score" : 1,
                 "isEntryPointForNewBot" : false,

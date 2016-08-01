@@ -3,14 +3,14 @@
     {
         "id" : 0,
         "text" : "Question 1",
-        "responseType" : 1, // 0 - None, 1 - Tap
+        "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 1,
         "answers" : [
             {
                 "id" : 0,
                 "text"  : "Answer",
-                "answerType" : 1,  // 0 - Text, 1 - ScoreText
+                "answerType" : 1,
                 "nextBubbleId" : 1,
                 "score" : 1,
                 "isEntryPointForNewBot" : false,
@@ -29,14 +29,14 @@
     {
         "id" : 1,
         "text" : "Question 2",
-        "responseType" : 1, // 0 - None, 1 - Tap
+        "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 1,
         "answers" : [
 			{
                 "id" : 0,
                 "text"  : "Answer 1",
-                "answerType" : 1,  // 0 - Text, 1 - ScoreText
+                "answerType" : 1,
                 "nextBubbleId" : 1,
                 "score" : 1,
                 "isEntryPointForNewBot" : false,
