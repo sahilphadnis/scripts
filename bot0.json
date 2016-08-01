@@ -24,7 +24,7 @@
         "answers" : [
             {
                 "id" : 0,
-                "text"  : "Go to new bot!",
+                "text"  : "Go to new Test!",
                 "answerType" : 0,
                 "nextBubbleId" : 2,
                 "score" : 0,
@@ -35,7 +35,7 @@
             } ,
             {
                 "id" : 0,
-                "text"  : "Go to new Test!",
+                "text"  : "Go to new Bot!",
                 "answerType" : 0,
                 "nextBubbleId" : -1,
                 "score" : 0,
