@@ -17,7 +17,7 @@
     },
     {
         "id" : 1,
-        "text" : "Bot 0 : Bubble 1",
+        "text" : "Bot 0 : <i>Bubble</i> 1",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 2,
