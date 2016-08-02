@@ -69,7 +69,7 @@
     {
         "id" : 3,
         "text" : "New Bot Will start now! Better be ready :D",
-        "responseType" : 0,
+        "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [
