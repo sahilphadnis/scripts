@@ -37,7 +37,7 @@
         "isEntryPointForNewTest" : false,
         "questionscount" : 2,
         "filename" : "",
-        "isExitPoint" : true,
+        "isExitPoint" : false,
         "nextBubbleId" : -1,
         "delay" : 1
     }
