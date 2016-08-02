@@ -71,7 +71,7 @@
         "text" : "New Bot Will start now! Better be ready :D",
         "responseType" : 1,
         "mediaUrl" : "",
-        "optionsCount" : 0,
+        "optionsCount" : 1,
         "answers" : [
             {
                 "id" : 3,
