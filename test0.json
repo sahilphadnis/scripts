@@ -3,14 +3,14 @@
     "Bubbles" : [ 
     {
         "id" : 0,
-        "text" : "Question 1",
+        "text" : "TestBot : Question 1",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 1,
         "answers" : [
             {
                 "id" : 0,
-                "text"  : "Answer",
+                "text"  : "Answer 1",
                 "answerType" : 1,
                 "nextBubbleId" : 1,
                 "score" : 1,
@@ -29,14 +29,14 @@
     },
     {
         "id" : 1,
-        "text" : "Question 2",
+        "text" : "TestBot : Question 2",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 1,
         "answers" : [
 			{
                 "id" : 0,
-                "text"  : "Answer 1",
+                "text"  : "Answer 2",
                 "answerType" : 1,
                 "nextBubbleId" : 1,
                 "score" : 1,

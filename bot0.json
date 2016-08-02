@@ -3,7 +3,7 @@
 
     "Bubbles" : [ {
         "id" : 0,
-        "text" : "Bubble 0",
+        "text" : "Bot 0 : Bubble 0",
         "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
@@ -17,7 +17,7 @@
     },
     {
         "id" : 1,
-        "text" : "Bubble 1",
+        "text" : "Bot 0 : Bubble 1",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 2,
@@ -54,7 +54,7 @@
     },
     {
         "id" : 2,
-        "text" : "Buffer Bubble at 2",
+        "text" : "Bot 0 : Buffer Bubble at 2",
         "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
@@ -68,7 +68,7 @@
     },
     {
         "id" : 3,
-        "text" : "New Bot Will start now! Better be ready :D",
+        "text" : "Bot 0 : New Bot Will start now! Better be ready :D",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 1,
@@ -94,7 +94,7 @@
     },
     {
         "id" : 4,
-        "text" : "The End!",
+        "text" : "Bot 0 : The End!",
         "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
