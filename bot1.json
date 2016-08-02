@@ -24,7 +24,7 @@
         "answers" : [
             {
                 "id" : 0,
-                "text"  : "Answer 1 - Exits",
+                "text"  : "Bot 1 - Exits",
                 "answerType" : 1,
                 "nextBubbleId" : -1,
                 "score" : 1,
