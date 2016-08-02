@@ -3,7 +3,7 @@
 
     "Bubbles" : [ {
         "id" : 0,
-        "text" : "Bot 0 : Bubble 0",
+        "text" : "Bot 0 : <b>Bubble</b> 0",
         "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
