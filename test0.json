@@ -3,7 +3,7 @@
     "Bubbles" : [ 
     {
         "id" : 0,
-        "text" : "TestBot : Question 1",
+        "text" : "TestBot : Question 1, Last answer <fb>",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 1,
