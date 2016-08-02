@@ -42,7 +42,7 @@
                 "isEntryPointForNewBot" : true,
                 "isEntryPointForNewTest" : false,
                 "questionscount" : 0,
-                "filename" : ""
+                "filename" : "bot1"
             }
         ],
         "isEntryPointForNewTest" : false,
@@ -82,7 +82,7 @@
                 "isEntryPointForNewBot" : true,
                 "isEntryPointForNewTest" : false,
                 "questionscount" : 0,
-                "filename" : ""
+                "filename" : "bot1"
             }
         ],
         "isEntryPointForNewTest" : false,
