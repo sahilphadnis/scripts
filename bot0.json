@@ -37,7 +37,7 @@
                 "id" : 0,
                 "text"  : "Go to new Bot!",
                 "answerType" : 0,
-                "nextBubbleId" : -1,
+                "nextBubbleId" : 2,
                 "score" : 0,
                 "isEntryPointForNewBot" : true,
                 "isEntryPointForNewTest" : false,
@@ -72,8 +72,20 @@
         "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
-        "answers" : [],
-        "isEntryPointForNewTest" : true,
+        "answers" : [
+            {
+                "id" : 3,
+                "text"  : "Go to new Bot!",
+                "answerType" : 0,
+                "nextBubbleId" : 4,
+                "score" : 0,
+                "isEntryPointForNewBot" : true,
+                "isEntryPointForNewTest" : false,
+                "questionscount" : 0,
+                "filename" : ""
+            }
+        ],
+        "isEntryPointForNewTest" : false,
         "questionscount" : 2,
         "filename" : "",
         "isExitPoint" : false,
