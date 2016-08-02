@@ -3,7 +3,7 @@
 
     "Bubbles" : [ {
         "id" : 0,
-        "text" : "Bot 0 : <img src=\"https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg\" height="42" width="42"> Bubble 0",
+        "text" : "Bot 0 : Bubble 0",
         "responseType" : 0,
         "mediaUrl" : "",
         "optionsCount" : 0,
