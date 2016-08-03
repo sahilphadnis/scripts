@@ -3,23 +3,11 @@
 
     "Bubbles" : [ {
         "id" : 0,
-        "text" : "sample",
-        "responseType" : 2,
+        "text" : "Bot 0 : Bubble 0",
+        "responseType" : 0,
         "mediaUrl" : "",
-        "optionsCount" : 1,
-        "answers" : [
-        {
-                "id" : 0,
-                "text"  : "Go to new Test!",
-                "answerType" : 0,
-                "nextBubbleId" : 2,
-                "score" : 0,
-                "isEntryPointForNewBot" : false,
-                "isEntryPointForNewTest" : true,
-                "questionscount" : 2,
-                "filename" : "test0"
-            }
-        ],
+        "optionsCount" : 0,
+        "answers" : [],
         "isEntryPointForNewTest" : false,
         "questionscount" : 0,
         "filename" : "",
@@ -29,7 +17,7 @@
     },
     {
         "id" : 1,
-        "text" : "Bot 0 : <b><i>Bubble</i></b>1",
+        "text" : "Bot 0 : Bubble 1",
         "responseType" : 1,
         "mediaUrl" : "",
         "optionsCount" : 2,
