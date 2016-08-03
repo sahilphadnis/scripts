@@ -3,11 +3,23 @@
 
     "Bubbles" : [ {
         "id" : 0,
-        "text" : "Bot 0 : <strike> Bubble  </strike>0",
-        "responseType" : 0,
+        "text" : "sample",
+        "responseType" : 2,
         "mediaUrl" : "",
-        "optionsCount" : 0,
-        "answers" : [],
+        "optionsCount" : 1,
+        "answers" : [
+        {
+                "id" : 0,
+                "text"  : "Go to new Test!",
+                "answerType" : 0,
+                "nextBubbleId" : 2,
+                "score" : 0,
+                "isEntryPointForNewBot" : false,
+                "isEntryPointForNewTest" : true,
+                "questionscount" : 2,
+                "filename" : "test0"
+            }
+        ],
         "isEntryPointForNewTest" : false,
         "questionscount" : 0,
         "filename" : "",
