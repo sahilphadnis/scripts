@@ -78,9 +78,9 @@
     {
       "id": 3,
       "text": "Here's a simple exercise. Choose the present tense sentence - ",
-      "responseType": 0,
+      "responseType": 1,
       "mediaUrl": "",
-      "optionsCount": 0,
+      "optionsCount": 1,
       "answers": [
         {
           "id": 3,
