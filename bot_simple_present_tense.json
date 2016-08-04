@@ -396,7 +396,7 @@
       "delay": 2
     },
     {
-      "id": 15,
+      "id": 16,
       "text": "You can always come back to learn more about this topic.",
       "responseType": 0,
       "mediaUrl": "",
@@ -405,7 +405,7 @@
       "isEntryPointForNewTest": false,
       "questionsCount": 0,
       "filename": "",
-      "nextBubbleId": -2,
+      "nextBubbleId": 16,
       "delay": 2
     },
     {
@@ -431,7 +431,7 @@
       "isEntryPointForNewTest": false,
       "questionsCount": 0,
       "filename": "",
-      "nextBubbleId": -2,
+      "nextBubbleId": 18,
       "delay": 1
     }
   ]
