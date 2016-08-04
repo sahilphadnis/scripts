@@ -287,9 +287,9 @@
     {
       "id": 11,
       "text": "This <b>is</b> Jewel.",
-      "responseType": 4,
+      "responseType": 0,
       "mediaUrl": "",
-      "optionsCount": 1,
+      "optionsCount": 0,
       "answers": [],
       "isEntryPointForNewTest": false,
       "questionsCount": 0,
