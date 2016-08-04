@@ -3,8 +3,10 @@
 
     "Bubbles" : [ {
         "id" : 0,
-        "text" : "Bot 0 : Bubble 0",
-        "responseType" : 0,
+        "text" : "Suicide ____",
+        "responseType" : 4,
+        "correctResponses" : ["squad", "squad", "squad"],
+        "nextErrorBubbleId" : 1,
         "mediaUrl" : "",
         "optionsCount" : 0,
         "answers" : [],
@@ -17,39 +19,16 @@
     },
     {
         "id" : 1,
-        "text" : "Bot 0 : Bubble 1",
-        "responseType" : 1,
+        "text" : "Its \"Squad\" man!",
+        "responseType" : 0,
         "mediaUrl" : "",
-        "optionsCount" : 2,
-        "answers" : [
-            {
-                "id" : 0,
-                "text"  : "Go to new Test!",
-                "answerType" : 0,
-                "nextBubbleId" : 2,
-                "score" : 0,
-                "isEntryPointForNewBot" : false,
-                "isEntryPointForNewTest" : true,
-                "questionscount" : 2,
-                "filename" : "test0"
-            } ,
-            {
-                "id" : 0,
-                "text"  : "Go to new Bot!",
-                "answerType" : 0,
-                "nextBubbleId" : 2,
-                "score" : 0,
-                "isEntryPointForNewBot" : true,
-                "isEntryPointForNewTest" : false,
-                "questionscount" : 0,
-                "filename" : "bot1"
-            }
-        ],
+        "optionsCount" : 0,
+        "answers" : [],
         "isEntryPointForNewTest" : false,
         "questionscount" : 0,
         "filename" : "",
         "isExitPoint" : false,
-        "nextBubbleId" : -2,
+        "nextBubbleId" : 2,
         "delay" : 1
     },
     {
