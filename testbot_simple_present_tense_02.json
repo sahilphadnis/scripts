@@ -16,7 +16,7 @@
     },
     {
       "id": 1,
-      "text": "I/You/We/They <b>verb</b> \n \n <i>I/You/We/They</i> <b><i>follow</i></b> <i>Hillary Clinton on Twitter</i>.",
+      "text": "I/You/We/They <b>verb</b> <br> <br> <i>I/You/We/They</i> <b><i>follow</i></b> <i>Hillary Clinton on Twitter</i>.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -54,7 +54,7 @@
     },
     {
       "id": 3,
-      "text": "He/She/It <b>verb+s</b> \n \n <i>He/She/It</i> <b><i>follows</i></b> <i>Hillary Clinton on Twitter</i>.",
+      "text": "He/She/It <b>verb+s</b> <br> <br> <i>He/She/It</i> <b><i>follows</i></b> <i>Hillary Clinton on Twitter</i>.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -236,7 +236,7 @@
     },
     {
       "id": 9,
-      "text": "<i>You and I</i> = We \n \n Hence, <i>you and I verb.</i>",
+      "text": "<i>You and I</i> = We <br> <br> Hence, <i>you and I verb.</i>",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -297,7 +297,7 @@
     },
     {
       "id": 11,
-      "text": "<i>Mrs. Shetty and her daughters</i> = They \n \n Hence, <i>Mrs. Shetty and her daughters verb.</i>",
+      "text": "<i>Mrs. Shetty and her daughters</i> = They <br> <br> Hence, <i>Mrs. Shetty and her daughters verb.</i>",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,

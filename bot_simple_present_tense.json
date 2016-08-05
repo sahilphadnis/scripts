@@ -39,7 +39,7 @@
     },
     {
       "id": 1,
-      "text": "Awesome 😊 \n \"<fb>\" is in simple present tense. \n It means you are fine <b>at this time</b>.",
+      "text": "Awesome 😊 <br> \"<fb>\" is in simple present tense. <br> It means you are fine <b>at this time</b>.",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,
@@ -52,7 +52,7 @@
     },
     {
       "id": 2,
-      "text": "For simple present, we use \n I <b>am</b> \n \n You/We/They <b>are</b> \n \n He/She/It <b>is</b>",
+      "text": "For simple present, we use <br> I <b>am</b> <br> <br> You/We/They <b>are</b> <br> <br> He/She/It <b>is</b>",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -102,7 +102,7 @@
     },
     {
       "id": 4,
-      "text": "Not bad 👏 \n Let's look at how to use verbs in present tense.",
+      "text": "Not bad 👏 <br> Let's look at how to use verbs in present tense.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 2,
@@ -138,7 +138,7 @@
     },
     {
       "id": 5,
-      "text": "📝 <b>Simple Present Verb Rule 1</b> \n \n I/You/We/They verb... \n \n I <b>write</b> for a newspaper. \n They <b>speak</b> French. ",
+      "text": "📝 <b>Simple Present Verb Rule 1</b> <br> <br> I/You/We/They verb... <br> <br> I <b>write</b> for a newspaper. <br> They <b>speak</b> French. ",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -163,7 +163,7 @@
     },
     {
       "id": 6,
-      "text": "📝 <b>Simple Present Verb Rule 2</b> \n \n He/She/It verb+s... \n \n She <b>dances</b> beautifully. \n It <b>looks</b> difficult. ",
+      "text": "📝 <b>Simple Present Verb Rule 2</b> <br> <br> He/She/It verb+s... <br> <br> She <b>dances</b> beautifully. <br> It <b>looks</b> difficult. ",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -224,7 +224,7 @@
     },
     {
       "id": 8,
-      "text": "Well done!👏 \n You've understood how to use verbs in simple present tense.",
+      "text": "Well done!👏 <br> You've understood how to use verbs in simple present tense.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 2,
@@ -260,7 +260,7 @@
     },
     {
       "id": 9,
-      "text": "Simple present tense is used to describe - \n \n things that happen regularly \n habits \n hobbies",
+      "text": "Simple present tense is used to describe - <br> <br> things that happen regularly <br> habits <br> hobbies",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,
@@ -299,7 +299,7 @@
     },
     {
       "id": 12,
-      "text": "She <b>studies</b> in France. \n She <b>wants</b> to become a doctor. \n She <b>works</b> at the library. \n She <b>likes</b> Italian food.",
+      "text": "She <b>studies</b> in France. <br> She <b>wants</b> to become a doctor. <br> She <b>works</b> at the library. <br> She <b>likes</b> Italian food.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -324,7 +324,7 @@
     },
     {
       "id": 13,
-      "text": "You've learnt the basics of <b>simple present tense</b>. 🌟 \n Well done!",
+      "text": "You've learnt the basics of <b>simple present tense</b>. 🌟 <br> Well done!",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,

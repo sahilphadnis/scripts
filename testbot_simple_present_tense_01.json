@@ -89,7 +89,7 @@
     },
     {
       "id": 4,
-      "text": "To identify the right answer, look for \n \n I <b>am</b> \n You/We/They <b>are</b> \n He/She/It <b>is</b>",
+      "text": "To identify the right answer, look for <br> <br> I <b>am</b> <br> You/We/They <b>are</b> <br> He/She/It <b>is</b>",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -320,7 +320,7 @@
     },
     {
       "id": 13,
-      "text": "📝  Grammar Note \n \n For present tense we use \n \n I <b>am</b>... \n You/We/They <b>are</b>... \n He/She/It <b>is</b>...",
+      "text": "📝  Grammar Note <br> <br> For present tense we use <br> <br> I <b>am</b>... <br> You/We/They <b>are</b>... <br> He/She/It <b>is</b>...",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,
