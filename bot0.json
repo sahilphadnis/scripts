@@ -5,8 +5,8 @@
         "id" : 0,
         "text" : "Suicide ____",
         "responseType" : 4,
-        "correctResponses" : ["squad", "gang", "group"],
-        "acceptedResponses" : ["squad"],
+        "correctResponses" : ["squad",""],
+        "acceptedIncorrectResponses" : ["gang", "group"],
         "nextErrorBubbleId" : 1,
         "mediaUrl" : "",
         "optionsCount" : 0,
@@ -15,7 +15,7 @@
         "questionscount" : 0,
         "filename" : "",
         "isExitPoint" : false,
-        "nextBubbleId" : 1,
+        "nextBubbleId" : 2,
         "delay" : 1
     },
     {
