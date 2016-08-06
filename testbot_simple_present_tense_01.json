@@ -328,9 +328,9 @@
         {
           "id": 13,
           "text": "Noted 👍",
-          "answerType": 1,
+          "answerType": 0,
           "nextBubbleId": -1,
-          "score": 1,
+          "score": 0,
           "isEntryPointForNewBot": false,
           "isEntryPointForNewTest": false,
           "questionsCount": 0,
