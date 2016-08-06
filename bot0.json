@@ -5,7 +5,7 @@
         "id" : 0,
         "text" : "Suicide ____",
         "responseType" : 4,
-        "correctResponses" : ["squad", "gang", "group"],
+        "correctResponses" : ["squad", "gang", "group","team"],
         "acceptedResponses" : ["squad"],
         "nextErrorBubbleId" : 1,
         "mediaUrl" : "",
