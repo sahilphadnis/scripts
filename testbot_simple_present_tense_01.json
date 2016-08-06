@@ -161,7 +161,7 @@
     },
     {
       "id": 6,
-      "text": "Look for <b>they are<b/> in the next sentence.",
+      "text": "Look for <b>they are</b> in the next sentence.",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,
@@ -194,7 +194,7 @@
       "answers": [
         {
           "id": 8,
-          "text": "They are not sure about the answer.",
+          "text": "They are not sure.",
           "answerType": 1,
           "nextBubbleId": 9,
           "score": 1,
@@ -205,7 +205,7 @@
         },
         {
           "id": 8,
-          "text": "They were not sure about the answer.",
+          "text": "They were not sure.",
           "answerType": 1,
           "nextBubbleId": 10,
           "score": 0,
@@ -216,7 +216,7 @@
         },
         {
           "id": 8,
-          "text": "They is not sure about the answer.",
+          "text": "They is not sure.",
           "answerType": 1,
           "nextBubbleId": 10,
           "score": 0,
@@ -247,7 +247,7 @@
     },
     {
       "id": 10,
-      "text": "Read the options carefully❗️",
+      "text": "Read the options carefully.",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,
@@ -320,7 +320,7 @@
     },
     {
       "id": 13,
-      "text": "📝  Grammar Note <br> <br> For present tense we use <br> <br> I <b>am</b>... <br> You/We/They <b>are</b>... <br> He/She/It <b>is</b>...",
+      "text": "📝 Now you know how to use <br> <br> I <b>am</b>... <br> You/We/They <b>are</b>... <br> He/She/It <b>is</b>...",
       "responseType": 0,
       "mediaUrl": "",
       "optionsCount": 0,

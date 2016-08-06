@@ -3,7 +3,7 @@
   "Bubbles": [
     {
       "id": 0,
-      "text": "The rule for simple present tense is simple. 🙂",
+      "text": "The verb rule for simple present tense is simple. 🙂",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 0,
@@ -16,7 +16,7 @@
     },
     {
       "id": 1,
-      "text": "I/You/We/They <b>verb</b> <br> <br> <i>I/You/We/They</i> <b><i>follow</i></b> <i>Hillary Clinton on Twitter</i>.",
+      "text": "I/You/We/They <i>verb</i> <br> <br> <i>I/You/We/They</i> <b><i>follow</i></b> <i>Hillary Clinton on Twitter</i>.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,
@@ -41,7 +41,7 @@
     },
     {
       "id": 2,
-      "text": "The next part is easy too.",
+      "text": "The next part is simple too.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 0,
@@ -54,7 +54,7 @@
     },
     {
       "id": 3,
-      "text": "He/She/It <b>verb+s</b> <br> <br> <i>He/She/It</i> <b><i>follows</i></b> <i>Hillary Clinton on Twitter</i>.",
+      "text": "He/She/It <i>verb+s</i> <br> <br> <i>He/She/It</i> <b><i>follows</i></b> <i>Hillary Clinton on Twitter</i>.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 1,

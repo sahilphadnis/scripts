@@ -3,7 +3,7 @@
   "Bubbles": [
     {
       "id": 0,
-      "text": "Param ___ the appoinment letters.",
+      "text": "Param ___ the appointment letters.",
       "responseType": 1,
       "mediaUrl": "",
       "optionsCount": 2,
@@ -337,7 +337,7 @@
           "text": "considers",
           "answerType": 1,
           "nextBubbleId": 10,
-          "score": 1,
+          "score": 0,
           "isEntryPointForNewBot": false,
           "isEntryPointForNewTest": false,
           "questionsCount": 0,
@@ -348,7 +348,7 @@
           "text": "consider",
           "answerType": 1,
           "nextBubbleId": 10,
-          "score": 0,
+          "score": 1,
           "isEntryPointForNewBot": false,
           "isEntryPointForNewTest": false,
           "questionsCount": 0,
