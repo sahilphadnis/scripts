@@ -4,11 +4,11 @@
     "Bubbles" : [ {
         "id" : 0,
         "text" : "Suicide ____",
-        "responseType" : 4,
+        "responseType" : 2,
         "correctResponses" : ["squad",""],
         "acceptedIncorrectResponses" : ["gang", "group"],
         "nextErrorBubbleId" : 1,
-        "mediaUrl" : "",
+        "mediaUrl" : "https://s3-ap-southeast-1.amazonaws.com/sling-media/bots/img/Jewel.jpeg",
         "optionsCount" : 0,
         "answers" : [],
         "isEntryPointForNewTest" : false,
