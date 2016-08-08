@@ -4,18 +4,18 @@
     "Bubbles" : [ {
         "id" : 0,
         "text" : "Suicide ____",
-        "responseType" : 4,
+        "responseType" : 3,
         "correctResponses" : ["squad",""],
         "acceptedIncorrectResponses" : ["gang", "group"],
         "nextErrorBubbleId" : 1,
-        "mediaUrl" : "",
+        "mediaUrl" : "Jewel.jpeg",
         "optionsCount" : 0,
         "answers" : [],
         "isEntryPointForNewTest" : false,
         "questionscount" : 0,
         "filename" : "",
         "isExitPoint" : false,
-        "nextBubbleId" : 2,
+        "nextBubbleId" : 3,
         "delay" : 1
     },
     {
