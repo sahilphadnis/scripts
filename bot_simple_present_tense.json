@@ -4,9 +4,9 @@
     {
       "id": 0,
       "text": "Hi ___! 🙂 <br> How are you?",
-      "responseType": 0,
+      "responseType": 1,
       "mediaUrl": "",
-      "optionsCount": 0,
+      "optionsCount": 2,
       "answers": [
         {
           "id": 0,
@@ -32,7 +32,7 @@
         }
       ],
       "isEntryPointForNewTest": false,
-      "isEntryPointForNewBot": true,
+      "isEntryPointForNewBot": false,
       "questionsCount": 0,
       "filename": "testbot_simple_present_tense_01",
       "nextBubbleId": 1,
