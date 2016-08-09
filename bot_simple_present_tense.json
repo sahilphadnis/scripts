@@ -4,9 +4,9 @@
     {
       "id": 0,
       "text": "Hi ___! 🙂 <br> How are you?",
-      "responseType": 1,
+      "responseType": 0,
       "mediaUrl": "",
-      "optionsCount": 2,
+      "optionsCount": 0,
       "answers": [
         {
           "id": 0,
