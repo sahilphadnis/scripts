@@ -176,6 +176,10 @@
           "score": 0,
           "isEntryPointForNewBot": false,
           "isEntryPointForNewTest": true,
+          "scoreBasedNextBubblesId" : {
+            "0-3" : 7,
+            "4-5" : 8
+          },
           "questionsCount": 5,
           "filename": "test_simple_present_tense_02"
         }
