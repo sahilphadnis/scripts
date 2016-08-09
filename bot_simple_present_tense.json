@@ -32,8 +32,9 @@
         }
       ],
       "isEntryPointForNewTest": false,
+      "isEntryPointForNewBot": true,
       "questionsCount": 0,
-      "filename": "",
+      "filename": "testbot_simple_present_tense_01",
       "nextBubbleId": 1,
       "delay": 1
     },
