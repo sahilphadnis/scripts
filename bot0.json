@@ -68,7 +68,7 @@
             "id": 3,
             "text": "The register is the cash counter where a Starbucks employee takes orders.",
             "responseType": 2,
-            "mediaUrl": "CashRegister.jpg",
+            "mediaUrl": "cash_register.jpg",
             "optionsCount": 1,
             "answers": [
                 {
