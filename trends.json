@@ -1,0 +1,52 @@
+{
+    "trendGroupList": [{
+        "groupName": "IN_GROUP",
+        "categoryList": [{
+            "categoryName": "Starbucks : Barista Basics",
+            "trends": [{
+                "trendId": 1166,
+                "isBotTrend": 1,
+                "botFileName": "starbucks_bot_how_to_take_an_order",
+                "topic": "How to Take an Order"
+            }, {
+                "trendId": 1167,
+                "isBotTrend": 0,
+                "botFileName": "",
+                "topic": "Practice: Taking an Order"
+            }, {
+                "trendId": 1168,
+                "isBotTrend": 1,
+                "botFileName": "starbucks_bot_how_to_take_an_order",
+                "topic": "Pronounce: Blended Drinks"
+            }, {
+                "trendId": 1169,
+                "isBotTrend": 1,
+                "botFileName": "starbucks_bot_how_to_take_an_order",
+                "topic": "Pronounce: Espresso Drinks"
+            }]
+        }, {
+            "categoryName": "CBSE - 8th Grade Grammar",
+            "trends": [{
+                "trendId": 1170,
+                "isBotTrend": 1,
+                "botFileName": "sc_bot_adverbs_1",
+                "topic": "Adverbs 1"
+            }, {
+                "trendId": 1171,
+                "isBotTrend": 1,
+                "botFileName": "sc_bot_adverbs_1",
+                "topic": "Adverbs 2"
+            }, {
+                "trendId": 1172,
+                "isBotTrend": 1,
+                "botFileName": "sc_bot_adverbs_1",
+                "topic": "Test: Adverbs of Time"
+            }, {
+                "trendId": 1173,
+                "isBotTrend": 1,
+                "botFileName": "sc_bot_adverbs_1",
+                "topic": "Test: Adverbs of Frequency"
+            }]
+        }]
+    }]
+}
