@@ -2,8 +2,8 @@
   "trends": [
     {
       "trendId": 953,
-      "isBotTrend": 0,
-      "botFileName": null,
+      "isBotTrend": 1,
+      "botFileName": "Grammar/Was%3AWere/bot_was_were_01",
       "topic": "Learn I - Simple Past Tense"
     },
     {
