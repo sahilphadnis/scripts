@@ -258,10 +258,10 @@
       "categoryName": "Test 1",
       "trends": [
         {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": null,
-          "topic": "Learn I - Simple Past Tense"
+        "trendId": 953,
+        "isBotTrend": 1,
+        "botFileName": "Grammar/Was%3AWere/bot_was_were_01",
+        "topic": "Learn I - Simple Past Tense"
         },
         {
           "trendId": 954,
