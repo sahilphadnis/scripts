@@ -255,28 +255,28 @@
   ],
   "trendCategoryList": [
     {
-      "categoryName": "Test 1",
+      "categoryName": "Present Tense",
       "trends": [
         {
         "trendId": 953,
         "isBotTrend": 1,
-        "botFileName": "Grammar/Was%3AWere/bot_was_were_01",
-        "topic": "Learn I - Simple Past Tense"
+        "botFileName": "Grammar/learn_simple_present/bot_simple_present_tense.json",
+        "topic": "Learn - Simple Past Tense"
         },
         {
           "trendId": 954,
-          "isBotTrend": 0,
-          "botFileName": null,
-          "topic": "Practice I - What did you do yesterday?"
+          "isBotTrend": 1,
+          "botFileName": "Grammar/learn_present_continuous/bot_present_continuous_tense_01.json",
+          "topic": "Learn - Present Continuous"
         },
         {
           "trendId": 955,
           "isBotTrend": 0,
           "botFileName": null,
-          "topic": "Learn II - Simple Present Tense"
+          "topic": "Practice - About Me"
         },
         {
-          "trendId": 956,
+          "trendId": 956, 
           "isBotTrend": 0,
           "botFileName": null,
           "topic": "Practice II - My Best Friend"
