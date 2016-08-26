@@ -260,13 +260,13 @@
             {
               "trendId": 953,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_simple_present/bot_simple_present_tense",
+              "botFileName": "bot_simple_present_tense",
               "topic": "Learn - Simple Present Tense"
             },
             {
               "trendId": 954,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_present_continuous/bot_present_continuous_tense_01",
+              "botFileName": "bot_present_continuous_tense_01",
               "topic": "Learn - Present Continuous"
             },
             {
@@ -283,7 +283,7 @@
             {
               "trendId": 956,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_simple_past/bot_simple_past_tense_01",
+              "botFileName": "bot_simple_past_tense_01",
               "topic": "Learn - Simple Past Tense"
             },
             {
@@ -295,7 +295,7 @@
             {
               "trendId": 958,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_simple_past/bot_simple_past_tense_01",
+              "botFileName": "bot_simple_past_tense_01",
               "topic": "Learn - Was/Were"
             },
             {
@@ -324,7 +324,7 @@
             {
               "trendId": 962,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_will_verb/bot_will_verb_01",
+              "botFileName": "bot_will_verb_01",
               "topic": "Learn - will + verb"
             },
             {
@@ -353,7 +353,7 @@
             {
               "trendId": 966,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_a_an/bot_indefinite_articles_01",
+              "botFileName": "bot_indefinite_articles_01",
               "topic": "Learn - A / An"
             },
             {
@@ -365,7 +365,7 @@
             {
               "trendId": 968,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_the/bot_definite_articles_01",
+              "botFileName": "bot_definite_articles_01",
               "topic": "Learn - The"
             },
             {
@@ -382,7 +382,7 @@
             {
               "trendId": 970,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_can_must/bot_can_must_01",
+              "botFileName": "bot_can_must_01",
               "topic": "Learn - I can / I must"
             },
             {
@@ -394,7 +394,7 @@
             {
               "trendId": 972,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_should/bot_should_01",
+              "botFileName": "bot_should_01",
               "topic": "Learn - Should"
             },
             {
@@ -406,7 +406,7 @@
             {
               "trendId": 974,
               "isBotTrend": 1,
-              "botFileName": "Grammar/learn_could/bot_could_01",
+              "botFileName": "bot_could_01",
               "topic": "Learn - Could"
             },
             {
