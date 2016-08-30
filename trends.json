@@ -417,23 +417,76 @@
             }
           ]
         },
-        {
-          "categoryName": "Adverbs",
+                {
+          "categoryName": "Prepositions",
           "trends": [
             {
               "trendId": 976,
               "isBotTrend": 1,
-              "botFileName": "sc_bot_adverbs_1",
-              "topic": "Learn - Adverbs 1"
+              "botFileName": "bot_prepositions_on_at_01",
+              "topic": "Learn - On / At"
             },
             {
               "trendId": 977,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - Adverbs of Time"
+              "topic": "Practice - My Weekly Routine"
             },
             {
               "trendId": 978,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_in_since_01",
+              "topic": "Learn - In / Since"
+            },
+            {
+              "trendId": 979,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My City"
+            },
+            {
+              "trendId": 980,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_under_01",
+              "topic": "Learn - Under / In front of / Next to"
+            },
+            {
+              "trendId": 981,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - Describe the Picture"
+            },
+                        {
+              "trendId": 982,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_of_by_01",
+              "topic": "Learn - Of / By"
+            },
+            {
+              "trendId": 983,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My Favourite Singer"
+            }
+          ]
+        },
+        {
+          "categoryName": "Adverbs",
+          "trends": [
+            {
+              "trendId": 984,
+              "isBotTrend": 1,
+              "botFileName": "sc_bot_adverbs_1",
+              "topic": "Learn - Adverbs 1"
+            },
+            {
+              "trendId": 985,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - Adverbs of Time"
+            },
+            {
+              "trendId": 986,
               "isBotTrend": 0,
               "botFileName": null,
               "topic": "Practice - Adverbs of Frequency"
