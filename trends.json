@@ -267,13 +267,7 @@
               "trendId": 954,
               "isBotTrend": 1,
               "botFileName": "bot_simple_present_tense",
-              "topic": "Prep Test"
-            },
-                        {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_simple_present_tense",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 955,
@@ -296,13 +290,7 @@
               "trendId": 954,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Prep Test"
-            },
-                        {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 955,
@@ -319,19 +307,13 @@
               "trendId": 956,
               "isBotTrend": 1,
               "botFileName": "bot_simple_past_tense_01",
-              "topic": "Learn - Simple Past Tense"
+              "topic": "Learn"
             },
                                     {
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_simple_past_tense_01",
-              "topic": "Prep Test"
-            },
-                                    {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_simple_past_tense_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 957,
@@ -354,13 +336,7 @@
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Quick Quiz"
-            },
-                                    {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 959,
@@ -383,19 +359,13 @@
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Quick Quiz"
-            },
-                                    {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 963,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Speak - My Dream Home"
+              "topic": "Practice - My Dream Home"
             }
           ]
         },
@@ -412,24 +382,18 @@
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_will be_verbing_01",
-              "topic": "Quick Quiz"
-            },
-                                    {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_will be_verbing_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 965,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Speak - My Next Vacation"
+              "topic": "Practice - My Next Vacation"
             }
           ]
         },
         {
-          "categoryName": "Articles",
+          "categoryName": "Indefinite Articles",
           "trends": [
             {
               "trendId": 966,
@@ -441,20 +405,19 @@
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Quick Quiz"
-            },
-                                    {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 967,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Speak - My Dream Home"
-            },
+              "topic": "Practice - My Dream Home"
+            }
+          ]
+        },
+                {
+          "categoryName": "Definite Articles",
+          "trends": [
             {
               "trendId": 968,
               "isBotTrend": 1,
@@ -465,13 +428,7 @@
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Quick Quiz"
-            },
-                                    {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Final Test"
+              "topic": "Test"
             },
             {
               "trendId": 969,
