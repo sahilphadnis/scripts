@@ -371,13 +371,13 @@
           ]
         },
         {
-          "categoryName": "Future Tense",
+          "categoryName": "Future Tense : Will + Verb",
           "trends": [
             {
               "trendId": 962,
               "isBotTrend": 1,
               "botFileName": "bot_will_verb_01",
-              "topic": "Learn - will + verb"
+              "topic": "Learn"
             },
                                     {
               "trendId": 955,
@@ -396,7 +396,12 @@
               "isBotTrend": 0,
               "botFileName": null,
               "topic": "Speak - My Dream Home"
-            },
+            }
+          ]
+        },
+                {
+          "categoryName": "Future Tense : Will be + Verbing",
+          "trends": [
             {
               "trendId": 964,
               "isBotTrend": 1,
@@ -406,13 +411,13 @@
                                     {
               "trendId": 955,
               "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
+              "botFileName": "bot_will be_verbing_01",
               "topic": "Quick Quiz"
             },
                                     {
               "trendId": 955,
               "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
+              "botFileName": "bot_will be_verbing_01",
               "topic": "Final Test"
             },
             {
