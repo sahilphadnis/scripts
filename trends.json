@@ -269,11 +269,23 @@
               "botFileName": "bot_present_continuous_tense_01",
               "topic": "Learn - Present Continuous"
             },
+                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 955,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - About Me"
+              "topic": "Speak - About Me"
             }
           ]
         },
@@ -286,11 +298,23 @@
               "botFileName": "bot_simple_past_tense_01",
               "topic": "Learn - Simple Past Tense"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 957,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - Last Weekend"
+              "topic": "Speak - Last Weekend"
             },
             {
               "trendId": 958,
@@ -298,23 +322,23 @@
               "botFileName": "bot_was_were_01",
               "topic": "Learn - Was/Were"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 959,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Favourite Teacher"
-            },
-            {
-              "trendId": 960,
-              "isBotTrend": 1,
-              "botFileName": "bot_was_were_01",
-              "topic": "Learn - Used to/Would"
-            },
-            {
-              "trendId": 961,
-              "isBotTrend": 0,
-              "botFileName": null,
-              "topic": "Practice - College Days"
+              "topic": "Speak - My Favourite Teacher"
             }
           ]
         },
@@ -327,11 +351,23 @@
               "botFileName": "bot_will_verb_01",
               "topic": "Learn - will + verb"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 963,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Dream Home"
+              "topic": "Speak - My Dream Home"
             },
             {
               "trendId": 964,
@@ -339,11 +375,23 @@
               "botFileName": "bot_will be_verbing_01",
               "topic": "Learn - will be + verbing"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 965,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Next Vacation"
+              "topic": "Speak - My Next Vacation"
             }
           ]
         },
@@ -356,11 +404,23 @@
               "botFileName": "bot_indefinite_articles_01",
               "topic": "Learn - A / An"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 967,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Dream Home"
+              "topic": "Speak - My Dream Home"
             },
             {
               "trendId": 968,
@@ -368,11 +428,23 @@
               "botFileName": "bot_definite_articles_01",
               "topic": "Learn - The"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            },
             {
               "trendId": 969,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Favourite Film"
+              "topic": "Speak - My Favourite Film"
             }
           ]
         },
@@ -385,11 +457,17 @@
               "botFileName": "bot_can_must_01",
               "topic": "Learn - I can / I must"
             },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 971,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - Importance of Education"
+              "topic": "Speak - Importance of Education"
             },
             {
               "trendId": 972,
@@ -397,11 +475,17 @@
               "botFileName": "bot_should_01",
               "topic": "Learn - Should"
             },
+                                                {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 973,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - Giving Advice"
+              "topic": "Speak - Giving Advice"
             },
             {
               "trendId": 974,
@@ -409,11 +493,23 @@
               "botFileName": "bot_could_01",
               "topic": "Learn - Could"
             },
+                                                {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 975,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - Asking Polite Questions"
+              "topic": "Speak - Asking Polite Questions"
+            },
+                                                {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
             }
           ]
         },
@@ -426,11 +522,17 @@
               "botFileName": "bot_prepositions_on_at_01",
               "topic": "Learn - On / At"
             },
+                                                            {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 977,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Weekly Routine"
+              "topic": "Speak - My Weekly Routine"
             },
             {
               "trendId": 978,
@@ -438,11 +540,17 @@
               "botFileName": "bot_prepositions_in_since_01",
               "topic": "Learn - In / Since"
             },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 979,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My City"
+              "topic": "Speak - My City"
             },
             {
               "trendId": 980,
@@ -450,11 +558,17 @@
               "botFileName": "bot_prepositions_under_01",
               "topic": "Learn - Under / In front of / Next to"
             },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 981,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - Describe the Picture"
+              "topic": "Speak - Describe the Picture"
             },
                         {
               "trendId": 982,
@@ -462,11 +576,23 @@
               "botFileName": "bot_prepositions_of_by_01",
               "topic": "Learn - Of / By"
             },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
             {
               "trendId": 983,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Practice - My Favourite Singer"
+              "topic": "Speak - My Favourite Singer"
+            },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
             }
           ]
         },
