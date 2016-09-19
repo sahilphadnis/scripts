@@ -255,27 +255,50 @@
   ],
    "trendCategoryList": [
         {
-          "categoryName": "Present Tense",
+          "categoryName": "Simple Present Tense",
           "trends": [
             {
               "trendId": 953,
               "isBotTrend": 1,
               "botFileName": "bot_simple_present_tense",
-              "topic": "Learn - Simple Present Tense"
+              "topic": "Learn"
+            },
+            {
+              "trendId": 954,
+              "isBotTrend": 1,
+              "botFileName": "bot_simple_present_tense",
+              "topic": "Prep Test"
+            },
+                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_simple_present_tense",
+              "topic": "Final Test"
+            },
+            {
+              "trendId": 955,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My hobbies"
+            }
+          ]
+        },
+                {
+          "categoryName": "Present Continuous Tense",
+          "trends": [
+            {
+              "trendId": 953,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Learn"
             },
             {
               "trendId": 954,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Learn - Present Continuous"
+              "topic": "Prep Test"
             },
                         {
-              "trendId": 955,
-              "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Quick Quiz"
-            },
-                                    {
               "trendId": 955,
               "isBotTrend": 1,
               "botFileName": "bot_present_continuous_tense_01",
@@ -285,12 +308,12 @@
               "trendId": 955,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Speak - About Me"
+              "topic": "Practice - Introducing Myself"
             }
           ]
         },
         {
-          "categoryName": "Past Tense",
+          "categoryName": "Simple Past Tense",
           "trends": [
             {
               "trendId": 956,
@@ -301,26 +324,31 @@
                                     {
               "trendId": 955,
               "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
-              "topic": "Quick Quiz"
+              "botFileName": "bot_simple_past_tense_01",
+              "topic": "Prep Test"
             },
                                     {
               "trendId": 955,
               "isBotTrend": 1,
-              "botFileName": "bot_present_continuous_tense_01",
+              "botFileName": "bot_simple_past_tense_01",
               "topic": "Final Test"
             },
             {
               "trendId": 957,
               "isBotTrend": 0,
               "botFileName": null,
-              "topic": "Speak - Last Weekend"
-            },
-            {
+              "topic": "Practice - Last Weekend"
+            }
+          ]
+        },
+                {
+          "categoryName": "Past Tense - Was/Were",
+          "trends": [
+             {
               "trendId": 958,
               "isBotTrend": 1,
               "botFileName": "bot_was_were_01",
-              "topic": "Learn - Was/Were"
+              "topic": "Learn"
             },
                                     {
               "trendId": 955,
