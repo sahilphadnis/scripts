@@ -1,0 +1,358 @@
+{
+   "trendCategoryList": [
+        {
+          "categoryName": "Simple Present Tense",
+          "trends": [
+            {
+              "trendId": 953,
+              "isBotTrend": 1,
+              "botFileName": "bot_simple_present_tense",
+              "topic": "Learn"
+            },
+            {
+              "trendId": 954,
+              "isBotTrend": 1,
+              "botFileName": "bot_simple_present_tense",
+              "topic": "Test"
+            },
+            {
+              "trendId": 955,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My hobbies"
+            }
+          ]
+        },
+                {
+          "categoryName": "Present Continuous Tense",
+          "trends": [
+            {
+              "trendId": 953,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Learn"
+            },
+            {
+              "trendId": 954,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 955,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - Introducing Myself"
+            }
+          ]
+        },
+        {
+          "categoryName": "Simple Past Tense",
+          "trends": [
+            {
+              "trendId": 956,
+              "isBotTrend": 1,
+              "botFileName": "bot_simple_past_tense_01",
+              "topic": "Learn"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_simple_past_tense_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 957,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - Last Weekend"
+            }
+          ]
+        },
+                {
+          "categoryName": "Past Tense - Was/Were",
+          "trends": [
+             {
+              "trendId": 958,
+              "isBotTrend": 1,
+              "botFileName": "bot_was_were_01",
+              "topic": "Learn"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 959,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - My Favourite Teacher"
+            }
+          ]
+        },
+        {
+          "categoryName": "Future Tense : Will + Verb",
+          "trends": [
+            {
+              "trendId": 962,
+              "isBotTrend": 1,
+              "botFileName": "bot_will_verb_01",
+              "topic": "Learn"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 963,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My Dream Home"
+            }
+          ]
+        },
+                {
+          "categoryName": "Future Tense : Will be + Verbing",
+          "trends": [
+            {
+              "trendId": 964,
+              "isBotTrend": 1,
+              "botFileName": "bot_will be_verbing_01",
+              "topic": "Learn - will be + verbing"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_will be_verbing_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 965,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My Next Vacation"
+            }
+          ]
+        },
+        {
+          "categoryName": "Indefinite Articles",
+          "trends": [
+            {
+              "trendId": 966,
+              "isBotTrend": 1,
+              "botFileName": "bot_indefinite_articles_01",
+              "topic": "Learn - A / An"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 967,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - My Dream Home"
+            }
+          ]
+        },
+                {
+          "categoryName": "Definite Articles",
+          "trends": [
+            {
+              "trendId": 968,
+              "isBotTrend": 1,
+              "botFileName": "bot_definite_articles_01",
+              "topic": "Learn - The"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Test"
+            },
+            {
+              "trendId": 969,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - My Favourite Film"
+            }
+          ]
+        },
+        {
+          "categoryName": "Modal Verbs",
+          "trends": [
+            {
+              "trendId": 970,
+              "isBotTrend": 1,
+              "botFileName": "bot_can_must_01",
+              "topic": "Learn - I can / I must"
+            },
+                                    {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 971,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - Importance of Education"
+            },
+            {
+              "trendId": 972,
+              "isBotTrend": 1,
+              "botFileName": "bot_should_01",
+              "topic": "Learn - Should"
+            },
+                                                {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 973,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - Giving Advice"
+            },
+            {
+              "trendId": 974,
+              "isBotTrend": 1,
+              "botFileName": "bot_could_01",
+              "topic": "Learn - Could"
+            },
+                                                {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 975,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - Asking Polite Questions"
+            },
+                                                {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            }
+          ]
+        },
+                {
+          "categoryName": "Prepositions",
+          "trends": [
+            {
+              "trendId": 976,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_on_at_01",
+              "topic": "Learn - On / At"
+            },
+                                                            {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 977,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - My Weekly Routine"
+            },
+            {
+              "trendId": 978,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_in_since_01",
+              "topic": "Learn - In / Since"
+            },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 979,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - My City"
+            },
+            {
+              "trendId": 980,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_under_01",
+              "topic": "Learn - Under / In front of / Next to"
+            },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 981,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - Describe the Picture"
+            },
+                        {
+              "trendId": 982,
+              "isBotTrend": 1,
+              "botFileName": "bot_prepositions_of_by_01",
+              "topic": "Learn - Of / By"
+            },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Quick Quiz"
+            },
+            {
+              "trendId": 983,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Speak - My Favourite Singer"
+            },
+                                                                        {
+              "trendId": 955,
+              "isBotTrend": 1,
+              "botFileName": "bot_present_continuous_tense_01",
+              "topic": "Final Test"
+            }
+          ]
+        },
+        {
+          "categoryName": "Adverbs",
+          "trends": [
+            {
+              "trendId": 984,
+              "isBotTrend": 1,
+              "botFileName": "sc_bot_adverbs_1",
+              "topic": "Learn - Adverbs 1"
+            },
+            {
+              "trendId": 985,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - Adverbs of Time"
+            },
+            {
+              "trendId": 986,
+              "isBotTrend": 0,
+              "botFileName": null,
+              "topic": "Practice - Adverbs of Frequency"
+            }
+          ]
+        }
+      ]}
