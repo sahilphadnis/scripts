@@ -272,49 +272,49 @@
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_work_experience",
+          "botFileName": "is_bot_work_experience",
           "topic": "Prep - Work Experience"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_work_experience",
+          "botFileName": "is_bot_work_experience",
           "topic": "Vocab - Work Experience"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_your_strengths",
+          "botFileName": "is_bot_your_strengths",
           "topic": "Prep - Your Strengths"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_your_strengths",
+          "botFileName": "is_bot_your_strengths",
           "topic": "Vocab - Your Strengths"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_your_weaknesses",
+          "botFileName": "is_bot_your_weaknesses",
           "topic": "Prep - Your Weaknesses"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_your_weaknesses",
+          "botFileName": "is_bot_your_weaknesses",
           "topic": "Vocab - Your Weaknesses"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_future_goals",
+          "botFileName": "is_bot_future_goals",
           "topic": "Prep - Future Goals"
         },
         {
           "trendId": 953,
           "isBotTrend": 1,
-          "botFileName": "Interview Skills/is_bot_future_goals",
+          "botFileName": "is_bot_future_goals",
           "topic": "Vocab - Future Goals"
         }
       ]
