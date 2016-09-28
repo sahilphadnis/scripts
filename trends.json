@@ -430,6 +430,17 @@
           "topic": "Test #4"
         }
       ]
+    },
+    {
+      "categoryName": "Testing",
+      "trends": [
+        {
+          "trendId": 953,
+          "isBotTrend": 1,
+          "botFileName": "bot_fortesting",
+          "topic": "Testing - Do not open!"
+        }
+      ]
     }
   ]
 }
