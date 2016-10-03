@@ -255,7 +255,7 @@
   ],
   "trendCategoryList": [
     {
-      "categoryName": "Interview Skills",
+      "categoryName": "Interview Skills : Introduction",
       "trends": [
         {
           "trendId": 953,
@@ -265,9 +265,9 @@
         },
         {
           "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_introducing_yourself",
-          "topic": "Vocab - Introducing Yourself"
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Introducing Yourself"
         },
         {
           "trendId": 953,
@@ -277,10 +277,15 @@
         },
         {
           "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_work_experience",
-          "topic": "Vocab - Work Experience"
-        },
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Work Experience"
+        }
+      ]
+    },
+    {
+      "categoryName": "Interview Skills : Qualities",
+      "trends": [
         {
           "trendId": 953,
           "isBotTrend": 1,
@@ -289,9 +294,9 @@
         },
         {
           "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_your_strengths",
-          "topic": "Vocab - Your Strengths"
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Your Strengths"
         },
         {
           "trendId": 953,
@@ -301,9 +306,9 @@
         },
         {
           "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_your_weaknesses",
-          "topic": "Vocab - Your Weaknesses"
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Your Weaknesses"
         },
         {
           "trendId": 953,
@@ -313,49 +318,78 @@
         },
         {
           "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_future_goals",
-          "topic": "Vocab - Future Goals"
-        }
-      ]
-    },
-    {
-      "categoryName": "Live Practice",
-      "trends": [
-        {
-          "trendId": 955,
           "isBotTrend": 0,
-          "botFileName": null,
-          "topic": "Practice - Introducing Yourself"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 0,
-          "botFileName": null,
-          "topic": "Practice - Work Experience"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 0,
-          "botFileName": null,
-          "topic": "Practice - Your Strengths"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 0,
-          "botFileName": null,
-          "topic": "Practice - Your Weaknesses"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 0,
-          "botFileName": null,
+          "botFileName": "",
           "topic": "Practice - Future Goals"
         }
       ]
     },
     {
-      "categoryName": "Grammar",
+      "categoryName": "Interview Skills : Job Suitability",
+      "trends": [
+        {
+          "trendId": 953,
+          "isBotTrend": 1,
+          "botFileName": "is_bot_your_application",
+          "topic": "Prep - Your Application"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Your Application"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 1,
+          "botFileName": "is_bot_about_the_company",
+          "topic": "Prep - About the Company"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - About the Company"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 1,
+          "botFileName": "is_bot_why_should_we_hire_you",
+          "topic": "Prep - Why should we hire you?"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Why should we hire you?"
+        }
+      ]
+    },
+    {
+      "categoryName": "Interview Skills : Extra Prep",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "is_vocab_introducing_yourself",
+          "topic": "Vocab - Introducing Yourself"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "is_vocab_work_experience",
+          "topic": "Vocab - Work Experience"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "is_vocab_your_application",
+          "topic": "Vocab - Your Application"
+        }
+      ]
+    },
+    {
+      "categoryName": "Grammar : Present Tense",
       "trends": [
         {
           "trendId": 956,
@@ -374,7 +408,12 @@
           "isBotTrend": 1,
           "botFileName": "bot_present_continuous_tense_01",
           "topic": "Test #1"
-        },
+        }
+      ]
+    },
+    {
+      "categoryName": "Grammar : Past Tense",
+      "trends": [
         {
           "trendId": 955,
           "isBotTrend": 1,
@@ -392,7 +431,12 @@
           "isBotTrend": 1,
           "botFileName": "bot_was_were_01",
           "topic": "Test #2"
-        },
+        }
+      ]
+    },
+    {
+      "categoryName": "Grammar : Future Tense",
+      "trends": [
         {
           "trendId": 955,
           "isBotTrend": 1,
@@ -410,7 +454,12 @@
           "isBotTrend": 1,
           "botFileName": "bot_will_be_verbing_01",
           "topic": "Test #3"
-        },
+        }
+      ]
+    },
+    {
+      "categoryName": "Grammar : Articles",
+      "trends": [
         {
           "trendId": 955,
           "isBotTrend": 1,
@@ -440,7 +489,7 @@
           "botFileName": "bot_fortesting",
           "topic": "Testing - Do not open!"
         },
-                {
+        {
           "trendId": 953,
           "isBotTrend": 1,
           "botFileName": "bot_learner_onboarding",
