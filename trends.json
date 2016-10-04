@@ -400,7 +400,7 @@
         },
         {
           "trendId": 955,
-          "isBotTrend": 1,
+          "isBotTrend": 0,
           "botFileName": "",
           "topic": "Practice - Vocabulary"
         }
