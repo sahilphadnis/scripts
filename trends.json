@@ -383,19 +383,19 @@
         {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_vocab_introducing_yourself",
+          "botFileName": "is_bot_vocab_introducing_yourself",
           "topic": "Vocab - Introducing Yourself"
         },
         {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_vocab_work_experience",
+          "botFileName": "is_bot_vocab_work_experience",
           "topic": "Vocab - Work Experience"
         },
         {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_vocab_your_application",
+          "botFileName": "is_bot_vocab_your_application",
           "topic": "Vocab - Your Application"
         },
                 {
