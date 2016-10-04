@@ -351,6 +351,18 @@
           "botFileName": "",
           "topic": "Practice - About the Company"
         },
+                {
+          "trendId": 953,
+          "isBotTrend": 1,
+          "botFileName": "is_bot_about_the_job",
+          "topic": "Prep - About the Job"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - About the Job"
+        },
         {
           "trendId": 953,
           "isBotTrend": 1,
@@ -385,6 +397,12 @@
           "isBotTrend": 1,
           "botFileName": "is_vocab_your_application",
           "topic": "Vocab - Your Application"
+        },
+                {
+          "trendId": 955,
+          "isBotTrend":01,
+          "botFileName": "",
+          "topic": "Practice - Vocabulary"
         }
       ]
     },
