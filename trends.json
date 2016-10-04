@@ -351,7 +351,7 @@
           "botFileName": "",
           "topic": "Practice - About the Company"
         },
-                {
+        {
           "trendId": 953,
           "isBotTrend": 1,
           "botFileName": "is_bot_about_the_job",
@@ -398,9 +398,9 @@
           "botFileName": "is_vocab_your_application",
           "topic": "Vocab - Your Application"
         },
-                {
+        {
           "trendId": 955,
-          "isBotTrend":01,
+          "isBotTrend": 1,
           "botFileName": "",
           "topic": "Practice - Vocabulary"
         }
