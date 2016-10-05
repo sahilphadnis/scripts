@@ -510,6 +510,12 @@
         {
           "trendId": 953,
           "isBotTrend": 1,
+          "botFileName": "starbucks_bot_how_to_take_an_order",
+          "topic": "Dev Testing - Media"
+        },
+        {
+          "trendId": 953,
+          "isBotTrend": 1,
           "botFileName": "bot_learner_onboarding",
           "topic": "Testing - Learner On-boarding"
         }
