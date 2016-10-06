@@ -395,7 +395,7 @@
         {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_testbot_vocab_introducing_yourself_01",
+          "botFileName": "test1",
           "topic": "Vocab - Your Application"
         },
                 {
@@ -492,7 +492,7 @@
         },
         {
           "trendId": 955,
-          "isBotTrend": 1,
+          "isBotTrend": 1, 
           "botFileName": "bot_indefinite_articles_01",
           "topic": "Test #4"
         }
