@@ -398,7 +398,7 @@
           "botFileName": "is_bot_vocab_your_application",
           "topic": "Vocab - Your Application"
         },
-                {
+        {
           "trendId": 955,
           "isBotTrend": 0,
           "botFileName": "",
@@ -492,7 +492,7 @@
         },
         {
           "trendId": 955,
-          "isBotTrend": 1, 
+          "isBotTrend": 1,
           "botFileName": "bot_test_articles_01",
           "topic": "Test #4"
         }
@@ -518,6 +518,240 @@
           "isBotTrend": 1,
           "botFileName": "bot_learner_onboarding",
           "topic": "Testing - Learner On-boarding"
+        }
+      ]
+    },
+    {
+      "categoryName": "Present Tense",
+      "trends": [
+        {
+          "trendId": 956,
+          "isBotTrend": 1,
+          "botFileName": "bot_simple_present_tense",
+          "topic": "Learn - Simple Present"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_present_continuous_tense_01",
+          "topic": "Learn - Present Continuous"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_present_tense_01",
+          "topic": "Test #1"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - About Me"
+        }
+      ]
+    },
+    {
+      "categoryName": "Past Tense",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_simple_past_tense_01",
+          "topic": "Learn - Simple Past"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Last Weekend"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_was_were_01",
+          "topic": "Learn - Was/Were"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - My Favourite Teacher"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_past_tense_01",
+          "topic": "Test #2"
+        }
+      ]
+    },
+    {
+      "categoryName": "Future Tense",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_will_verb_01",
+          "topic": "Learn - will + verb"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "My Dream Home"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_will_be_verbing_01",
+          "topic": "Learn - will be + verbing"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - My Next Vacation"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_future_tense_01",
+          "topic": "Test #3"
+        }
+      ]
+    },
+    {
+      "categoryName": "Articles",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_definite_articles_01",
+          "topic": "Learn - Definite Articles"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_indefinite_articles_01",
+          "topic": "Learn - Indefinite Articles"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_articles_01",
+          "topic": "Test #4"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - My Favourite Film"
+        }
+      ]
+    },
+    {
+      "categoryName": "Prepositions",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_prepositions_on_at_01",
+          "topic": "Learn - On/At"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - My Weekly Routine"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_prepositions_in_since_01",
+          "topic": "Learn - In/Since"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - My City"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_prepositions_01",
+          "topic": "Test #5"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_prepositions_uin_01",
+          "topic": "Learn - Under / In front of / Next to"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Describe the Picture"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_prepositions_of_by_01",
+          "topic": "Learn - Of/By"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - My Favourite Singer"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_prepositions_02",
+          "topic": "Test #6"
+        }
+      ]
+    },
+    {
+      "categoryName": "Modals",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_can_must_01",
+          "topic": "Learn - I can / I must"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Importance of Education"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_should_01",
+          "topic": "Learn - Should"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Giving Advice"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_could_01",
+          "topic": "Learn - Could"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 0,
+          "botFileName": "",
+          "topic": "Practice - Asking Polite Questions"
         }
       ]
     }
