@@ -752,9 +752,11 @@
           "isBotTrend": 0,
           "botFileName": "",
           "topic": "Practice - Asking Polite Questions"
-        },
-        {
-      "categoryName": "Dev Testing",
+        }
+      ]
+    },
+    {
+      "categoryName": "Dev testing",
       "trends": [
         {
           "trendId": 955,
