@@ -763,6 +763,18 @@
           "isBotTrend": 1,
           "botFileName": "starbucks_bot_how_to_take_an_order",
           "topic": "Media Testing"
+        },
+         {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "dt_bot_customer_ka_swagat",
+          "topic": "Hindi bot Testing"
+        },
+         {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "sc_bot_adverbs_1",
+          "topic": "Adverbs Testing"
         }
       ]
     }
