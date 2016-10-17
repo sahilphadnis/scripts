@@ -518,6 +518,12 @@
           "isBotTrend": 1,
           "botFileName": "bot_learner_onboarding",
           "topic": "Testing - Learner On-boarding"
+        },
+                {
+          "trendId": 953,
+          "isBotTrend": 1,
+          "botFileName": "bot_banks_opening_account",
+          "topic": "Banks - Opening an Account"
         }
       ]
     },
