@@ -781,6 +781,12 @@
           "isBotTrend": 1,
           "botFileName": "sc_bot_adverbs_1",
           "topic": "Adverbs Testing"
+        },
+         {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_command_test",
+          "topic": "Command Testing"
         }
       ]
     }
