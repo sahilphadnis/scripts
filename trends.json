@@ -499,35 +499,6 @@
       ]
     },
     {
-      "categoryName": "Testing",
-      "trends": [
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "bot_fortesting",
-          "topic": "Testing - Do not open!"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "starbucks_bot_how_to_take_an_order",
-          "topic": "Dev Testing - Media"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "bot_learner_onboarding",
-          "topic": "Testing - Learner On-boarding"
-        },
-                {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "bot_banks_opening_account",
-          "topic": "Banks - Opening an Account"
-        }
-      ]
-    },
-    {
       "categoryName": "Present Tense",
       "trends": [
         {
@@ -791,7 +762,7 @@
           "trendId": 955,
           "isBotTrend": 1,
           "botFileName": "starbucks_bot_how_to_take_an_order",
-          "topic": "Media Testing"
+          "topic": "Starbucks - Media Testing"
         },
          {
           "trendId": 955,
