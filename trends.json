@@ -781,6 +781,18 @@
           "isBotTrend": 1,
           "botFileName": "bot_command_test",
           "topic": "Command Testing"
+        },
+ {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_ilfs_steward_cc_slow_service_01",
+          "topic": "Complaints - Slow Service"
+        },
+         {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_ilfs_steward_cc_wrong_order_01",
+          "topic": "Complaints - Wrong Order"
         }
       ]
     }
