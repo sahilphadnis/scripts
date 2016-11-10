@@ -809,8 +809,8 @@
                 {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "bot_ilfs_steward_serving_starters_01",
-          "topic": "Serving Starters"
+          "botFileName": "bot_ilfs_steward_serving_food_01",
+          "topic": "Serving Food"
         }
       ]
     }
