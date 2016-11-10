@@ -667,7 +667,7 @@
 					"trendId": 9902,
 					"botFileName": "bot_ilfs_steward_cc_wrong_order_01",
 					"isLockedTrend": 0,
-					"isLearnBot": 0,
+					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "Complaints - Wrong Order"
