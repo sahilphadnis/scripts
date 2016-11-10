@@ -793,6 +793,24 @@
           "isBotTrend": 1,
           "botFileName": "bot_ilfs_steward_cc_wrong_order_01",
           "topic": "Complaints - Wrong Order"
+        },
+                 {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_ilfs_steward_serving_water_01",
+          "topic": "Serving Water"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_ilfs_steward_serving_whiskey_01",
+          "topic": "Serving Whiskey"
+        },
+                {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_ilfs_steward_serving_starters_01",
+          "topic": "Serving Starters"
         }
       ]
     }
