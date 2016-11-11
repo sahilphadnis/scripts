@@ -254,247 +254,26 @@
     }
   ],
   "trendCategoryList": [
-    {
-      "categoryName": "Interview Skills : Introduction",
-      "trends": [
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_introducing_yourself",
-          "topic": "Prep - Introducing Yourself"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Introducing Yourself"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_work_experience",
-          "topic": "Prep - Work Experience"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Work Experience"
-        }
-      ]
-    },
-    {
-      "categoryName": "Interview Skills : Qualities",
-      "trends": [
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_your_strengths",
-          "topic": "Prep - Your Strengths"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Your Strengths"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_your_weaknesses",
-          "topic": "Prep - Your Weaknesses"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Your Weaknesses"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_future_goals",
-          "topic": "Prep - Future Goals"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Future Goals"
-        }
-      ]
-    },
-    {
-      "categoryName": "Interview Skills : Job Suitability",
-      "trends": [
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_your_application",
-          "topic": "Prep - Your Application"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Your Application"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_about_the_company",
-          "topic": "Prep - About the Company"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - About the Company"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_about_the_job",
-          "topic": "Prep - About the Job"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - About the Job"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 1,
-          "botFileName": "is_bot_why_should_we_hire_you",
-          "topic": "Prep - Why should we hire you?"
-        },
-        {
-          "trendId": 953,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Why should we hire you?"
-        }
-      ]
-    },
-    {
-      "categoryName": "Interview Skills : Extra Prep",
+            {
+      "categoryName": "Grammar V02 Testing",
       "trends": [
         {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_bot_vocab_introducing_yourself",
-          "topic": "Vocab - Introducing Yourself"
+          "botFileName": "bot_where_when_01",
+          "topic": "Learn - Where / When"
         },
-        {
+                {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_bot_vocab_work_experience",
-          "topic": "Vocab - Work Experience"
+          "botFileName": "bot_what_who_whom_01",
+          "topic": "Learn - What / Who / Whom"
         },
-        {
+                {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "is_bot_vocab_your_application",
-          "topic": "Vocab - Your Application"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 0,
-          "botFileName": "",
-          "topic": "Practice - Interview Vocabulary"
-        }
-      ]
-    },
-    {
-      "categoryName": "Grammar : Present Tense",
-      "trends": [
-        {
-          "trendId": 956,
-          "isBotTrend": 1,
-          "botFileName": "bot_simple_present_tense",
-          "topic": "Learn - Simple Present"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_present_continuous_tense_01",
-          "topic": "Learn - Present Continuous"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_test_present_tense_01",
-          "topic": "Test #1"
-        }
-      ]
-    },
-    {
-      "categoryName": "Grammar : Past Tense",
-      "trends": [
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_simple_past_tense_01",
-          "topic": "Learn - Simple Past"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_was_were_01",
-          "topic": "Learn - Was/Were"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_test_past_tense_01",
-          "topic": "Test #2"
-        }
-      ]
-    },
-    {
-      "categoryName": "Grammar : Future Tense",
-      "trends": [
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_will_verb_01",
-          "topic": "Learn - will + verb"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_will_be_verbing_01",
-          "topic": "Learn - will be + verbing"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_test_future_tense_01",
-          "topic": "Test #3"
-        }
-      ]
-    },
-    {
-      "categoryName": "Grammar : Articles",
-      "trends": [
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_definite_articles_01",
-          "topic": "Learn - Definite Articles"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_indefinite_articles_01",
-          "topic": "Learn - Indefinite Articles"
-        },
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_test_articles_01",
-          "topic": "Test #4"
+          "botFileName": "bot_prepositions_from_to_01",
+          "topic": "Learn - From / To"
         }
       ]
     },
@@ -526,6 +305,10 @@
           "topic": "Practice - About Me"
         }
       ]
+    },
+        {
+      "categoryName": "Grammar_V01",
+      "trends": []
     },
     {
       "categoryName": "Past Tense",
@@ -729,29 +512,6 @@
           "isBotTrend": 0,
           "botFileName": "",
           "topic": "Practice - Asking Polite Questions"
-        }
-      ]
-    },
-        {
-      "categoryName": "Grammar V02 Testing",
-      "trends": [
-        {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_where_when_01",
-          "topic": "Learn - Where / When"
-        },
-                {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_what_who_whom_01",
-          "topic": "Learn - What / Who / Whom"
-        },
-                {
-          "trendId": 955,
-          "isBotTrend": 1,
-          "botFileName": "bot_prepositions_from_to_01",
-          "topic": "Learn - From / To"
         }
       ]
     },
