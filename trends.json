@@ -272,7 +272,7 @@
         {
           "trendId": 955,
           "isBotTrend": 1,
-          "botFileName": "bot_past_perfect_tense_cycle_01",
+          "botFileName": "bot_past_perfect_tense_01",
           "topic": "Learn - Past Perfect Tense"
         },
         {
@@ -286,6 +286,41 @@
           "isBotTrend": 1,
           "botFileName": "bot_future_perfect_tense_01",
           "topic": "Learn - Future Perfect Tense"
+        }  
+      ]
+    },
+                {
+      "categoryName": "Grammar V02 - Test Set 2",
+      "trends": [
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_future_perfect_tense_01",
+          "topic": "Test - Future Perfect Tense"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_what_who_whom_01",
+          "topic": "Learn - What / Who / Whom"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_what_who_whom_01",
+          "topic": "Test - What / Who / Whom"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_where_when_01",
+          "topic": "Learn - Where / When"
+        },
+        {
+          "trendId": 955,
+          "isBotTrend": 1,
+          "botFileName": "bot_test_where_when_01",
+          "topic": "Test - Where / When"
         }  
       ]
     },
