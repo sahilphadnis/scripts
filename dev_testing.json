@@ -665,15 +665,6 @@
 				},
 				{
 					"trendId": 9901,
-					"botFileName": "bot_fortesting",
-					"isLockedTrend": 0,
-					"isLearnBot": 1,
-					"isTestBot": 0,
-					"isSeparator": 0,
-					"topic": "All features"
-				},
-				{
-					"trendId": 9901,
 					"botFileName": "",
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
