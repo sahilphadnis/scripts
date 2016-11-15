@@ -661,7 +661,16 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Complaints - Slow Service"
+					"topic": "Session End"
+				},
+				{
+					"trendId": 9901,
+					"botFileName": "bot_modal",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Modals"
 				}
 			]
 		}
