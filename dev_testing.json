@@ -674,7 +674,7 @@
 				},
 				{
 					"trendId": 9901,
-					"botFileName": "bot_fortesting",
+					"botFileName": "dev_test_handoff_2",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
