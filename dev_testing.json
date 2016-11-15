@@ -665,12 +665,12 @@
 				},
 				{
 					"trendId": 9901,
-					"botFileName": "bot_modal",
+					"botFileName": "bot_fortesting",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Modals"
+					"topic": "All features"
 				}
 			]
 		}
