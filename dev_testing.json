@@ -661,7 +661,7 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Session End"
+					"topic": "Bot Session 1"
 				},
 				{
 					"trendId": 9901,
@@ -670,7 +670,7 @@
 					"isLearnBot": 0,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Live Session"
+					"topic": "Live Session 1"
 				},
 				{
 					"trendId": 9901,
@@ -679,7 +679,7 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "All features - 2"
+					"topic": "Bot Session - 2"
 				},
 				{
 					"trendId": 9901,
@@ -692,12 +692,12 @@
 				},
 				{
 					"trendId": 9901,
-					"botFileName": "",
+					"botFileName": "dev_test_handoff_3",
 					"isLockedTrend": 1,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Bot Session 2"
+					"topic": "Bot Session 3"
 				}
 			]
 		}
