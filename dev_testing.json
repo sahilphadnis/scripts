@@ -670,7 +670,7 @@
 					"isLearnBot": 0,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Session End - 2"
+					"topic": "Live Session"
 				},
 				{
 					"trendId": 9901,
@@ -680,6 +680,24 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "All features - 2"
+				},
+				{
+					"trendId": 9901,
+					"botFileName": "",
+					"isLockedTrend": 1,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Live Session 2"
+				},
+				{
+					"trendId": 9901,
+					"botFileName": "",
+					"isLockedTrend": 1,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Bot Session 2"
 				}
 			]
 		}
