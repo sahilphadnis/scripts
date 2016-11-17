@@ -692,12 +692,12 @@
 				},
 				{
 					"trendId": 9901,
-					"botFileName": "dev_test_handoff_3",
+					"botFileName": "dev_test_sentence_making",
 					"isLockedTrend": 1,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Bot Session 3"
+					"topic": "Sentence Making"
 				}
 			]
 		}
