@@ -698,6 +698,15 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "Sentence Making"
+				},
+				{
+					"trendId": 9901,
+					"botFileName": "dev_gif",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Gif Testing"
 				}
 			]
 		}
