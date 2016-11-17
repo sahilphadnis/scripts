@@ -707,6 +707,15 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "Gif Testing"
+				},
+				{
+					"trendId": 9901,
+					"botFileName": "dev_speech_rec",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Speech Rec"
 				}
 			]
 		}
