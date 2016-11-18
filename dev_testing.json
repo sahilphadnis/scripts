@@ -719,6 +719,15 @@
 				},
 				{
 					"trendId": 9901,
+					"botFileName": "speech_rec_demo.json",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Speech Rec - New"
+				},
+				{
+					"trendId": 9901,
 					"botFileName": "dev_input_spacing",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
