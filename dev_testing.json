@@ -719,7 +719,7 @@
 				},
 				{
 					"trendId": 9901,
-					"botFileName": "speech_rec_demo.json",
+					"botFileName": "speech_rec_demo",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
