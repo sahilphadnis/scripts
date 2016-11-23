@@ -734,6 +734,15 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "Input Spacing"
+				},
+				{
+					"trendId": 9901,
+					"botFileName": "starbucks_bot_how_to_take_an_order",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Starbucks"
 				}
 			]
 		}
