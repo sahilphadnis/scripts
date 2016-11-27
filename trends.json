@@ -374,6 +374,20 @@
 		}
 	],
 	"trendCategoryList": [
+				{
+			"categoryName": "BFSI Testing",
+			"trends": [
+						{
+					"trendId": 955,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "bot_BFSI_handling_objections",
+					"topic": "Handling Objections"
+				}
+			]
+		},
 		{
 			"categoryName": "Grammar_V02",
 			"trends": []
