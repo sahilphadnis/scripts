@@ -93,15 +93,6 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "Starbucks"
-				},
-				{
-					"trendId": 9910,
-					"botFileName": "dev_test_handoff",
-					"isLockedTrend": 0,
-					"isLearnBot": 1,
-					"isTestBot": 0,
-					"isSeparator": 0,
-					"topic": "Last "
 				}
 			]
 		}
