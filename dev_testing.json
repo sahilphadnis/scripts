@@ -93,6 +93,15 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"topic": "Starbucks"
+				},
+				{
+					"trendId": 9911,
+					"botFileName": "bot_audio_new",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "New Audio Feature."
 				}
 			]
 		}
