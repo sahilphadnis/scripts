@@ -1,383 +1,10 @@
 {
-	"trends": [
-		{
-			"trendId": 953,
-			"isLockedTrend": 0,
-			"isLearnBot": 1,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": "Grammar/Was%3AWere/bot_was_were_01",
-			"topic": "Learn I - Simple Past Tense"
-		},
-		{
-			"trendId": 954,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Practice I - What did you do yesterday?"
-		},
-		{
-			"trendId": 955,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Learn II - Simple Present Tense"
-		},
-		{
-			"trendId": 956,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Practice II - My Best Friend"
-		},
-		{
-			"trendId": 957,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Learn 1 - Simple Past Tense"
-		},
-		{
-			"trendId": 958,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Practice 1 - What did you do yesterday?"
-		},
-		{
-			"trendId": 959,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Learn 2 - Simple Present Tense"
-		},
-		{
-			"trendId": 960,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "Practice 2 - My Best Friend"
-		},
-		{
-			"trendId": 961,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t5"
-		},
-		{
-			"trendId": 962,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t6"
-		},
-		{
-			"trendId": 963,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t7"
-		},
-		{
-			"trendId": 964,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t8"
-		},
-		{
-			"trendId": 965,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t9"
-		},
-		{
-			"trendId": 966,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t10"
-		},
-		{
-			"trendId": 967,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t11"
-		},
-		{
-			"trendId": 968,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t12"
-		},
-		{
-			"trendId": 969,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t13"
-		},
-		{
-			"trendId": 970,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t14"
-		},
-		{
-			"trendId": 971,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t15"
-		},
-		{
-			"trendId": 972,
-			"isLockedTrend": 0,
-			"isLearnBot": 0,
-			"isTestBot": 0,
-			"isSeparator": 0,
-			"botFileName": null,
-			"topic": "t16"
-		}
-	],
-	"trendGroupList": [
-		{
-			"groupName": "IN_GROUP",
-			"categoryList": [
+	"productId": 19,
+	"chapters": [
 				{
-					"categoryName": "Test 1",
-					"trends": [
-						{
-							"trendId": 953,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Learn I - Simple Past Tense"
-						},
-						{
-							"trendId": 954,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Practice I - What did you do yesterday?"
-						},
-						{
-							"trendId": 955,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Learn II - Simple Present Tense"
-						},
-						{
-							"trendId": 956,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Practice II - My Best Friend"
-						},
-						{
-							"trendId": 957,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Learn 1 - Simple Past Tense"
-						},
-						{
-							"trendId": 958,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Practice 1 - What did you do yesterday?"
-						},
-						{
-							"trendId": 959,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Learn 2 - Simple Present Tense"
-						},
-						{
-							"trendId": 960,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "Practice 2 - My Best Friend"
-						},
-						{
-							"trendId": 961,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t5"
-						},
-						{
-							"trendId": 962,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t6"
-						},
-						{
-							"trendId": 963,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t7"
-						},
-						{
-							"trendId": 964,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t8"
-						},
-						{
-							"trendId": 965,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t9"
-						},
-						{
-							"trendId": 966,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t10"
-						},
-						{
-							"trendId": 967,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t11"
-						},
-						{
-							"trendId": 968,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t12"
-						},
-						{
-							"trendId": 969,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t13"
-						},
-						{
-							"trendId": 970,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t14"
-						},
-						{
-							"trendId": 971,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t15"
-						},
-						{
-							"trendId": 972,
-							"isLockedTrend": 0,
-							"isLearnBot": 0,
-							"isTestBot": 0,
-							"isSeparator": 0,
-							"botFileName": null,
-							"topic": "t16"
-						}
-					]
-				}
-			]
-		}
-	],
-	"trendCategoryList": [
+			"chapterName": "BFSI Testing",
+			"topics": [
 				{
-			"categoryName": "BFSI Testing",
-			"trends": [
-						{
 					"trendId": 955,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
@@ -389,9 +16,9 @@
 			]
 		},
 		{
-			"categoryName": "Ola Demos",
-			"trends": [
-						{
+			"chapterName": "Ola Demos",
+			"topics": [
+				{
 					"trendId": 955,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
@@ -412,12 +39,12 @@
 			]
 		},
 		{
-			"categoryName": "Grammar_V02",
-			"trends": []
+			"chapterName": "Grammar_V02",
+			"topics": []
 		},
 		{
-			"categoryName": "Present Perfect Tense",
-			"trends": [
+			"chapterName": "Present Perfect Tense",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -448,8 +75,8 @@
 			]
 		},
 		{
-			"categoryName": "Past Perfect Tense",
-			"trends": [
+			"chapterName": "Past Perfect Tense",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -480,8 +107,8 @@
 			]
 		},
 		{
-			"categoryName": "Future Perfect Tense",
-			"trends": [
+			"chapterName": "Future Perfect Tense",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -512,8 +139,8 @@
 			]
 		},
 		{
-			"categoryName": "Asking Questions",
-			"trends": [
+			"chapterName": "Asking Questions",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -571,8 +198,8 @@
 			]
 		},
 		{
-			"categoryName": "Prepositions",
-			"trends": [
+			"chapterName": "Prepositions",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -648,8 +275,8 @@
 			]
 		},
 		{
-			"categoryName": "Modals",
-			"trends": [
+			"chapterName": "Modals",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -725,8 +352,8 @@
 			]
 		},
 		{
-			"categoryName": "Sentences",
-			"trends": [
+			"chapterName": "Sentences",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -766,12 +393,12 @@
 			]
 		},
 		{
-			"categoryName": "Grammar_V01",
-			"trends": []
+			"chapterName": "Grammar_V01",
+			"topics": []
 		},
 		{
-			"categoryName": "Present Tense",
-			"trends": [
+			"chapterName": "Present Tense",
+			"topics": [
 				{
 					"trendId": 956,
 					"isLockedTrend": 0,
@@ -811,8 +438,8 @@
 			]
 		},
 		{
-			"categoryName": "Past Tense",
-			"trends": [
+			"chapterName": "Past Tense",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -861,8 +488,8 @@
 			]
 		},
 		{
-			"categoryName": "Future Tense",
-			"trends": [
+			"chapterName": "Future Tense",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -911,8 +538,8 @@
 			]
 		},
 		{
-			"categoryName": "Articles",
-			"trends": [
+			"chapterName": "Articles",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -952,8 +579,8 @@
 			]
 		},
 		{
-			"categoryName": "Prepositions",
-			"trends": [
+			"chapterName": "Prepositions",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -1047,8 +674,8 @@
 			]
 		},
 		{
-			"categoryName": "Modals",
-			"trends": [
+			"chapterName": "Modals",
+			"topics": [
 				{
 					"trendId": 955,
 					"isLockedTrend": 0,
@@ -1105,5 +732,6 @@
 				}
 			]
 		}
+
 	]
 }
