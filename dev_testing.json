@@ -2,10 +2,10 @@
 	"productId": 19,
 	"chapters": [
 		{
+				"chapterId": 98,
 			"chapterName": "Modal Verbs",
 			"topics": [
 				{
-				"chapterId": 98,
 					"trendId": 9901,
 					"botFileName": "dev_test_handoff",
 					"isLockedTrend": 0,
@@ -15,7 +15,6 @@
 					"topic": "Bot Session 1"
 				},
 				{
-				"chapterId": 99,
 					"trendId": 9902,
 					"botFileName": "",
 					"isLockedTrend": 0,
@@ -25,7 +24,6 @@
 					"topic": "Live Session 1"
 				},
 				{
-				"chapterId": 100,
 					"trendId": 9903,
 					"botFileName": "dev_test_handoff_2",
 					"isLockedTrend": 0,
@@ -35,7 +33,6 @@
 					"topic": "Bot Session - 2"
 				},
 				{
-				"chapterId": 101,
 					"trendId": 9904,
 					"botFileName": "",
 					"isLockedTrend": 1,
@@ -45,7 +42,6 @@
 					"topic": "Live Session 2"
 				},
 				{
-				"chapterId": 102,
 					"trendId": 9905,
 					"botFileName": "bot_modals_have_01",
 					"isLockedTrend": 1,
@@ -55,7 +51,6 @@
 					"topic": "Sentence Making"
 				},
 				{
-				"chapterId": 103,
 					"trendId": 9906,
 					"botFileName": "dev_gif",
 					"isLockedTrend": 0,
@@ -65,7 +60,6 @@
 					"topic": "Gif Testing"
 				},
 				{
-				"chapterId": 104,
 					"trendId": 9907,
 					"botFileName": "dev_speech_rec",
 					"isLockedTrend": 0,
@@ -75,7 +69,6 @@
 					"topic": "Speech Rec"
 				},
 				{
-				"chapterId": 105,
 					"trendId": 9908,
 					"botFileName": "speech_rec_demo",
 					"isLockedTrend": 0,
@@ -85,7 +78,6 @@
 					"topic": "Speech Rec - New"
 				},
 				{
-				"chapterId": 106,
 					"trendId": 9909,
 					"botFileName": "dev_input_spacing",
 					"isLockedTrend": 0,
@@ -95,7 +87,6 @@
 					"topic": "Input Spacing"
 				},
 				{
-				"chapterId": 107,
 					"trendId": 9910,
 					"botFileName": "starbucks_bot_how_to_take_an_order",
 					"isLockedTrend": 0,
@@ -105,7 +96,6 @@
 					"topic": "Starbucks"
 				},
 				{
-				"chapterId": 108,
 					"trendId": 9911,
 					"botFileName": "bot_audio_new",
 					"isLockedTrend": 0,
@@ -115,7 +105,6 @@
 					"topic": "New Audio Feature."
 				},
 				{
-				"chapterId": 109,
 					"trendId": 9912,
 					"botFileName": "bot_simple_present_tense",
 					"isLockedTrend": 0,
