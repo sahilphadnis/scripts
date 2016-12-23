@@ -862,6 +862,15 @@
 					"isSeparator": 0,
 					"botFileName": "bot_si_ti_retesting_regression_01",
 					"topic": "Retesting and Regression Testing"
+				},
+				{
+					"trendId": 1036,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "bot_si_ti_defects_life_cycle_01",
+					"topic": "Testing Interview"
 				}
 			]
 		}
