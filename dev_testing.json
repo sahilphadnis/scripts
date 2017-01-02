@@ -106,12 +106,12 @@
 				},
 				{
 					"trendId": 1044,
-					"botFileName": "bot_simple_present_tense",
+					"botFileName": "translate",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Simple Present Tense"
+					"topic": "Translate"
 				}
 			]
 		}
