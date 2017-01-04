@@ -2,6 +2,39 @@
   "productId": 19,
   "chapters": [
     {
+      "chapterId": 107,
+      "chapterName": "ILFS Hindi Bot Testing",
+      "topics": [
+        {
+          "trendId": 990,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "bot_ilfs_steward_cc_slow_service_01_hindi",
+          "topic": "Customer Complaints - Slow Service"
+        },
+        {
+          "trendId": 991,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "bot_ilfs_steward_cc_wrong_order_01_hindi",
+          "topic": "Customer Complaints - Slow Service"
+        },
+        {
+          "trendId": 992,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "bot_ilfs_steward_serving_whiskey_01",
+          "topic": "Serving of Whiskey"
+        }
+      ]
+    },
+    {
       "chapterId": 108,
       "chapterName": "Grammar_V01",
       "topics": []
