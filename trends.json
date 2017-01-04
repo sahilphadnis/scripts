@@ -21,7 +21,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "bot_ilfs_steward_cc_wrong_order_01_hindi",
-          "topic": "Customer Complaints - Slow Service"
+          "topic": "Customer Complaints - Wrong Order"
         },
         {
           "trendId": 992,
@@ -29,7 +29,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "bot_ilfs_steward_serving_whiskey_01",
+          "botFileName": "bot_ilfs_steward_serving_whiskey_01_hindi",
           "topic": "Serving of Whiskey"
         }
       ]
