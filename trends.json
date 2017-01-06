@@ -587,8 +587,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "bot_modals_would_wouldnt_01",
-          "topic": "Learn - Would and Wouldn't"
+          "botFileName": "bot_modals_would_01",
+          "topic": "Learn - Would"
         },
         {
           "trendId": 1046,
@@ -623,7 +623,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "bot_modals_modals_have_01",
+          "botFileName": "bot_modals_have_01",
           "topic": "Learn - Modals + have"
         },
         {
@@ -743,7 +743,7 @@
           "isLearnBot": 0,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "bot_test_sentences_because_instead_of_01",
+          "botFileName": "",
           "topic": "Practice - Is your city safe?"
         }
       ]
