@@ -65,7 +65,7 @@
           "trendId": 995,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_present_tense_01",
           "topic": "Test #1"
@@ -125,7 +125,7 @@
           "trendId": 1001,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_past_tense_01",
           "topic": "Test #2"
@@ -176,7 +176,7 @@
           "trendId": 1006,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_future_tense_01",
           "topic": "Test #3"
@@ -227,7 +227,7 @@
           "trendId": 1011,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_prepositions_in_since_of_by_01",
           "topic": "Test #4"
@@ -272,7 +272,7 @@
           "trendId": 1016,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_prepositions_uinob_01",
           "topic": "Test #5"
@@ -301,7 +301,7 @@
           "trendId": 1018,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_present_perfect_tense_01",
           "topic": "Test - Present Perfect Tense"
@@ -334,7 +334,7 @@
           "trendId": 1021,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_past_perfect_tense",
           "topic": "Test - Past Perfect Tense"
@@ -367,7 +367,7 @@
           "trendId": 1024,
           "isLockedTrend": 0,
           "isLearnBot": 1,
-          "isTestBot": 0,
+          "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_future_perfect_tense_01",
           "topic": "Test - Future Perfect Tense"
