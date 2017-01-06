@@ -430,7 +430,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "bot_prepositions_with_for_01",
-          "topic": "Learn - From / To"
+          "topic": "Learn - With / For"
         },
         {
           "trendId": 1031,
@@ -439,7 +439,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "bot_prepositions_by_through_01",
-          "topic": "Learn - Before / After"
+          "topic": "Learn - By / Through"
         },
         {
           "trendId": 1032,
@@ -448,7 +448,7 @@
           "isTestBot": 1,
           "isSeparator": 0,
           "botFileName": "bot_test_prepositions_with_for_by_through_01",
-          "topic": "Test - From / To / Before / After"
+          "topic": "Test - With / For / By / Through"
         },
         {
           "trendId": 1033,
