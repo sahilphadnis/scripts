@@ -7,12 +7,12 @@
 			"topics": [
 				{
 					"trendId": 9901,
-					"botFileName": "dev_test_handoff",
+					"botFileName": "testbot_modals_have_02",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Bot Session 1"
+					"topic": "MOdals"
 				},
 				{
 					"trendId": 9902,
