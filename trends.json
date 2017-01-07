@@ -747,6 +747,179 @@
           "topic": "Practice - Is your city safe?"
         }
       ]
-    }
+    },
+    {
+			"chapterId": 124,
+			"chapterName": "Everyday Conversation I",
+			"topics": []
+		},
+		{
+			"chapterId": 125,
+			"chapterName": "Chapter-The Basics",
+			"topics": [
+				{
+					"trendId": 1062,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_telling_time_bot_01",
+					"topic": "Telling Time"
+				},
+				{
+					"trendId": 1063,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_days_months_bot_01",
+					"topic": "Days and months"
+				},
+				{
+					"trendId": 1064,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_pronunciation_numbers_bot_01",
+					"topic": "Pronunciation-Numbers"
+				},
+				{
+					"trendId": 1065,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_pronunciation_common_sounds_bot_01",
+					"topic": "Pronunciation-Common Sounds"
+				},
+				{
+					"trendId": 1066,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_personal_pronouns_bot_01",
+					"topic": "Personal Pronouns"
+				},
+				{
+					"trendId": 1067,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_this_that_bot_01",
+					"topic": "This, That, These and Those"
+				}
+			]
+		},
+		{
+			"chapterId": 126,
+			"chapterName": "Chapter-Expressing Feelings",
+			"topics": [
+				{
+					"trendId": 1068,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_thank_someone_bot_01",
+					"topic": "How to thank someone"
+				},
+				{
+					"trendId": 1069,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_apologize_bot_01",
+					"topic": "How to apologize"
+				},
+				{
+					"trendId": 1070,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_express_happiness_bot_01",
+					"topic": "How to express happiness"
+				},
+				{
+					"trendId": 1071,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_express_sadness_bot_01",
+					"topic": "How to express sadness"
+				}
+			]
+		},
+		{
+			"chapterId": 127,
+			"chapterName": "Chapter-Expressing Opinions",
+			"topics": [
+				{
+					"trendId": 1072,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_other_ways_nice_bot_01",
+					"topic": "Other ways to say \"nice\""
+				},
+				{
+					"trendId": 1073,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_other_ways_not_nice_bot_01",
+					"topic": "Other ways to say \"not nice\""
+				},
+				{
+					"trendId": 1074,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_likes_dislikes_bot_01",
+					"topic": "Likes and Dislikes"
+				},
+				{
+					"trendId": 1075,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_comparing_objects_bot_01",
+					"topic": "Comparing Objects"
+				}
+			]
+		},
+		{
+			"chapterId": 128,
+			"chapterName": "Chapter-Common conversations I",
+			"topics": [
+				{
+					"trendId": 1076,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_order_coffee_bot_01",
+					"topic": "How to order coffee"
+				},
+				{
+					"trendId": 1077,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_order_food_bot_01",
+					"topic": "How to order food"
+				}
+			]
+		}
   ]
 }
