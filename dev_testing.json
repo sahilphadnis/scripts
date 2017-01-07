@@ -7,12 +7,12 @@
 			"topics": [
 				{
 					"trendId": 9901,
-					"botFileName": "testbot_modals_have_02",
+					"botFileName": "tag",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "MOdals"
+					"topic": "tag"
 				},
 				{
 					"trendId": 9902,
