@@ -983,6 +983,260 @@
 					"topic": "Live - Place an order at Starbucks"
 				}
 			]
+		},
+		{
+			"chapterId": 129,
+			"chapterName": "Everyday Conversation II",
+			"topics": []
+		},
+		{
+			"chapterId": 130,
+			"chapterName": "The First Meeting",
+			"topics": [
+				{
+					"trendId": 1085,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_saying_hello_bot_01",
+					"topic": "Saying hello!"
+				},
+				{
+					"trendId": 1086,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_introducing_yourself_bot_01",
+					"topic": "Introducing yourself"
+				},
+				{
+					"trendId": 1087,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - Hello there!"
+				},
+				{
+					"trendId": 1088,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_introducing_family_bot_01",
+					"topic": "Introducing your family"
+				},
+				{
+					"trendId": 1089,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_introducing_friends_bot_01",
+					"topic": "Introducing friends"
+				},
+				{
+					"trendId": 1090,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - Meet my friends!"
+				},
+				{
+					"trendId": 1091,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_asking_questions_bot_01",
+					"topic": "Asking questions"
+				},
+				{
+					"trendId": 1092,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_positive_negative_reactions_bot_01",
+					"topic": "Positive and Negative Reactions"
+				},
+				{
+					"trendId": 1093,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - Get to know someone"
+				},
+				{
+					"trendId": 1094,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_saying_goodbye_bot_01",
+					"topic": "Saying goodbye"
+				},
+				{
+					"trendId": 1095,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - The First Meeting"
+				}
+			]
+		},
+		{
+			"chapterId": 131,
+			"chapterName": "Making Plans",
+			"topics": [
+				{
+					"trendId": 1096,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_invite_someone_bot_01",
+					"topic": "How to invite someone"
+				},
+				{
+					"trendId": 1097,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_watching_movie_bot_01",
+					"topic": "Watching a movie"
+				},
+				{
+					"trendId": 1098,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - Invite someone over"
+				},
+				{
+					"trendId": 1099,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_refusing_invitations_bot_01",
+					"topic": "How to refuse an invitation"
+				},
+				{
+					"trendId": 1100,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_cancelling_plans_bot_01",
+					"topic": "Cancelling a plan"
+				},
+				{
+					"trendId": 1101,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - Refuse a movie invite"
+				}
+			]
+		},
+		{
+			"chapterId": 132,
+			"chapterName": "Chapter-About Work",
+			"topics": [
+				{
+					"trendId": 1102,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_work_roles_bot_01",
+					"topic": "Role and responsibilities"
+				},
+				{
+					"trendId": 1103,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_work_workplace_bot_01",
+					"topic": "Your workplace"
+				},
+				{
+					"trendId": 1104,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - So, what do you do?"
+				},
+				{
+					"trendId": 1105,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_work_future_aspirations_bot_01",
+					"topic": "Future aspirations"
+				},
+				{
+					"trendId": 1106,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_comparing_objects_bot_01",
+					"topic": "Live - Refuse a movie invite"
+				}
+			]
+		},
+		{
+			"chapterId": 133,
+			"chapterName": "Chapter-Common Conversations II",
+			"topics": [
+				{
+					"trendId": 1107,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_how_to_take_an_appointment_bot_01",
+					"topic": "How to take an appointment"
+				},
+				{
+					"trendId": 1108,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ec_speaking_to_the_doctor_bot_01",
+					"topic": "Speaking to the doctor"
+				},
+				{
+					"trendId": 1109,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Live - At the clinic"
+				}
+			]
 		}
 	]
 }
