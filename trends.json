@@ -6,6 +6,15 @@
 			"chapterName": "ILFS Hindi Bot Testing",
 			"topics": [
 				{
+					"trendId": 989,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "bot_si_ti_retesting_regression_01",
+					"topic": "SEED Demo"
+				},
+				{
 					"trendId": 990,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
