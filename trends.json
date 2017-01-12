@@ -3,43 +3,16 @@
 	"chapters": [
 		{
 			"chapterId": 107,
-			"chapterName": "ILFS Hindi Bot Testing",
+			"chapterName": "TATA: Approaching the Customer",
 			"topics": [
-				{
-					"trendId": 989,
-					"isLockedTrend": 0,
-					"isLearnBot": 1,
-					"isTestBot": 0,
-					"isSeparator": 0,
-					"botFileName": "bot_si_ti_retesting_regression_01",
-					"topic": "SEED Demo"
-				},
-				{
-					"trendId": 990,
-					"isLockedTrend": 0,
-					"isLearnBot": 1,
-					"isTestBot": 0,
-					"isSeparator": 0,
-					"botFileName": "bot_ilfs_steward_cc_slow_service_01_hindi",
-					"topic": "Customer Complaints - Slow Service"
-				},
-				{
-					"trendId": 991,
-					"isLockedTrend": 0,
-					"isLearnBot": 1,
-					"isTestBot": 0,
-					"isSeparator": 0,
-					"botFileName": "bot_ilfs_steward_cc_wrong_order_01_hindi",
-					"topic": "Customer Complaints - Wrong Order"
-				},
 				{
 					"trendId": 992,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"botFileName": "bot_ilfs_steward_serving_whiskey_01_hindi",
-					"topic": "Serving of Whiskey"
+					"botFileName": "tata_bde_approaching_the_customer_ftf_01",
+					"topic": "Face To Face"
 				}
 			]
 		},
