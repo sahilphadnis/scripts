@@ -1,0 +1,20 @@
+{
+	"productId": 19,
+	"chapters": [
+		{
+				"chapterId": 98,
+			"chapterName": "Dev Testing",
+			"topics": [
+				{
+					"trendId": 9901,
+					"botFileName": "master_bot_testing",
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"topic": "Master Bot Testing"
+				}
+			]
+		}
+	]
+}
