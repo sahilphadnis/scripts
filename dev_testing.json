@@ -16,12 +16,12 @@
 				},
 				{
 					"trendId": 9902,
-					"botFileName": "",
+					"botFileName": "ec_how_to_invite_someone_dinner_bot_01",
 					"isLockedTrend": 0,
-					"isLearnBot": 0,
+					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Live Session 1"
+					"topic": "Dinner Scenes"
 				},
 				{
 					"trendId": 9903,
@@ -34,12 +34,12 @@
 				},
 				{
 					"trendId": 9904,
-					"botFileName": "",
+					"botFileName": "ec_how_to_invite_someone_bot_01",
 					"isLockedTrend": 1,
-					"isLearnBot": 0,
+					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Live Session 2"
+					"topic": "Invitation Scenes"
 				},
 				{
 					"trendId": 9905,
