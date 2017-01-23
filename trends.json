@@ -3,7 +3,7 @@
 	"chapters": [
 		{
 			"chapterId": 107,
-			"chapterName": "TATA: Approaching the Customer",
+			"chapterName": "Seed Testing",
 			"topics": [
 				{
 					"trendId": 992,
@@ -11,8 +11,8 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"botFileName": "tata_bde_approaching_the_customer_ftf_01",
-					"topic": "Face To Face"
+					"botFileName": "seed_sql_inroductions_sql_bot_01",
+					"topic": "Introduction to SQL"
 				}
 			]
 		},
