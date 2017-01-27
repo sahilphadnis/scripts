@@ -1219,6 +1219,251 @@
 					"topic": "Live - At the clinic"
 				}
 			]
+		},
+		{
+			"chapterId": 134,
+			"chapterName": "At the Office - I",
+			"topics": []
+		},
+		{
+			"chapterId": 135,
+			"chapterName": "Casual Conversation",
+			"topics": [
+				{
+					"trendId": 1110,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_asking_for_help_bot_01",
+					"topic": "Asking for help"
+				},
+				{
+					"trendId": 1111,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_thanking_colleagues_bot_01",
+					"topic": "Thanking a colleague"
+				},				
+				{
+					"trendId": 1112,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Ask a colleague for help"
+				},				
+				{
+					"trendId": 1113,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_delegating_work_bot_01",
+					"topic": "Delegating work"
+				},				
+				{
+					"trendId": 1114,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_status_updates_bot_01",
+					"topic": "Asking for status updates"
+				},								
+				{
+					"trendId": 1115,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Assign a task"
+				}
+			]
+		},
+		{
+			"chapterId": 136,
+			"chapterName": "Speaking to  HR",
+			"topics": [
+				{
+					"trendId": 1116,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_complaining_about_collegue_bot_01",
+					"topic": "Complaining about a colleague"
+				},
+				{
+					"trendId": 1117,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_complaining_about_superior_bot_01",
+					"topic": "Complaining about a superior"
+				},				
+				{
+					"trendId": 1118,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Colleague’s Time Management"
+				},				
+				{
+					"trendId": 1119,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_making_requests_bot_01",
+					"topic": "Making requests"
+				},
+				{
+					"trendId": 1120,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_following_up_with_hr_bot_01",
+					"topic": "Following up with HR"
+				},
+				{
+					"trendId": 1121,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Request for an advance"
+				}	
+			]
+		},
+		{
+			"chapterId": 137,
+			"chapterName": "Speaking to Superiors",
+			"topics": [
+				{
+					"trendId": 1122,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_greetings_small_talk_bot_01",
+					"topic": "Greetings and Small Talk"
+				},
+				{
+					"trendId": 1123,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_polite_enquiries_bot_01",
+					"topic": "Polite Enquiries"
+				},
+				{
+					"trendId": 1124,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Greeting Your Boss"
+				},
+				{
+					"trendId": 1125,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_understanding_assignments_bot_01",
+					"topic": "Understanding Assignments"
+				},
+				{
+					"trendId": 1126,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_explaining_delays_bot_01",
+					"topic": "Explaining Delays"
+				},
+				{
+					"trendId": 1127,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Project Status Meeting"
+				}
+			]
+		},
+		{
+			"chapterId": 139,
+			"chapterName": "Writing Emails",
+			"topics": [
+				{
+					"trendId": 1128,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_job_openings_bot_01",
+					"topic": "Enquiring about job openings"
+				},
+				{
+					"trendId": 1129,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_accepting_job_offers_bot_01",
+					"topic": "Accepting job offers"
+				},
+				{
+					"trendId": 1130,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_work_related_bot_01",
+					"topic": "Work-related Emails"
+				},
+				{
+					"trendId": 1131,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_follow_up_bot_01",
+					"topic": "Follow-up emails"
+				},
+				{
+					"trendId": 1132,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_leave_applications_bot_01",
+					"topic": "Application for a Leave"
+				},
+				{
+					"trendId": 1133,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_resignation_bot_01",
+					"topic": "Resignation"
+				}
+			]
 		}
 	]
 }
