@@ -1346,7 +1346,7 @@
 			]
 		},
 		{
-			"chapterId": 137,
+			"chapterId": 138,
 			"chapterName": "Speaking to Superiors",
 			"topics": [
 				{
@@ -1462,6 +1462,278 @@
 					"isSeparator": 0,
 					"botFileName": "ato_emails_resignation_bot_01",
 					"topic": "Resignation"
+				}
+			]
+		},
+		{
+			"chapterId": 140,
+			"chapterName": "At the Office II",
+			"topics": []
+		},
+		{
+			"chapterId": 141,
+			"chapterName": "Meetings",
+			"topics": [
+				{
+					"trendId": 1134,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_meeting_vocabulary_bot_01",
+					"topic": "Meeting Vocabulary"
+				},
+				{
+					"trendId": 1135,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_scheduling_meetings_bot_01",
+					"topic": "Scheduling Meetings"
+				},
+				{
+					"trendId": 1136,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_cancelling_meetings_bot_01",
+					"topic": "Canceling Meetings"
+				},
+				{
+					"trendId": 1137,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Arrange a Meeting"
+				},
+				{
+					"trendId": 1138,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_opening_meetings_bot_01",
+					"topic": "Opening a Meeting"
+				},
+				{
+					"trendId": 1139,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Opening the Meeting"
+				},
+				{
+					"trendId": 1140,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_useful_phrases_for_discusssions_bot_01",
+					"topic": "Useful Phrases for Discussions"
+				},
+				{
+					"trendId": 1141,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Discussing the Agenda"
+				},
+				{
+					"trendId": 1142,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_ending_meetings_bot_01",
+					"topic": "Ending a meeting"
+				},
+				{
+					"trendId": 1143,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Ending a Meeting"
+				}
+			]
+		},
+		{
+			"chapterId": 142,
+			"chapterName": "Presentations",
+			"topics": [
+				{
+					"trendId": 1144,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_presentation_vocabulary_bot_01",
+					"topic": "Presentation Vocabulary"
+				},
+				{
+					"trendId": 1145,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_beginning_presentations_bot_01",
+					"topic": "Beginning a Presentation"
+				},
+				{
+					"trendId": 1146,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Beginning a Presentation"
+				},
+				{
+					"trendId": 1147,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_useful_phrases_for_presentations_bot_01",
+					"topic": "Useful Phrases for Presentations"
+				},
+				{
+					"trendId": 1148,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_explaining_charts_graphs_bot_01",
+					"topic": "Explaining Charts and Graphs"
+				},
+				{
+					"trendId": 1149,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Explain the image"
+				},
+				{
+					"trendId": 1150,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_ending_presentations_bot_01",
+					"topic": "Ending a Presentation"
+				},
+				{
+					"trendId": 1151,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Ending a Presentation"
+				}
+			]
+		},
+		{
+			"chapterId": 143,
+			"chapterName": "Talking to Colleagues",
+			"topics": [
+				{
+					"trendId": 1152,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_polite_inquiries_colleague_bot_01",
+					"topic": "Polite Inquiries about a Colleague"
+				},
+				{
+					"trendId": 1153,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_paying_compliment_colleague_bot_01",
+					"topic": "Paying a Compliment"
+				},
+				{
+					"trendId": 1154,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - It's your colleague's birthday"
+				},
+				{
+					"trendId": 1155,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_apologizing_colleague_bot_01",
+					"topic": "Apologizing to a Colleague"
+				},
+				{
+					"trendId": 1156,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_saying_no_politely_colleague_01",
+					"topic": "Saying No Politely"
+				},
+				{
+					"trendId": 1157,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "",
+					"topic": "Practice - Your colleague needs a favour"
+				}
+			]
+		},
+		{
+			"chapterId": 144,
+			"chapterName": "Office Emails",
+			"topics": [
+				{
+					"trendId": 1158,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_colleagues_bot_01",
+					"topic": "Emails to Colleagues"
+				},
+				{
+					"trendId": 1159,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_superiors_bot_01",
+					"topic": "Emails to Superiors"
+				},
+				{
+					"trendId": 1160,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "ato_emails_meeting_invitations_bot_01",
+					"topic": "Meeting Invitations"
 				}
 			]
 		}
