@@ -1663,8 +1663,8 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"botFileName": "ato_polite_inquiries_colleague_bot_01",
-					"topic": "Polite Inquiries about a Colleague"
+					"botFileName": "ato_at_the_lunch_table_bot_01",
+					"topic": "At the lunch table"
 				},
 				{
 					"trendId": 1153,
