@@ -13,6 +13,15 @@
 					"isSeparator": 0,
 					"botFileName": "seed_sql_inroductions_sql_bot_01",
 					"topic": "Introduction to SQL"
+				},
+				{
+					"trendId": 992,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "bot_si_ti_retesting_regression_01",
+					"topic": "Basics of Testing"
 				}
 			]
 		},
