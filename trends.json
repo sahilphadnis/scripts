@@ -1699,8 +1699,8 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"botFileName": "ato_saying_no_politely_colleague_01",
-					"topic": "Saying No Politely"
+					"botFileName": "ato_saying_no_politely_colleague_bot_01",
+					"topic": "Saying \"No\" Politely"
 				},
 				{
 					"trendId": 1157,
