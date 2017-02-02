@@ -34,21 +34,21 @@
 				},
 				{
 					"trendId": 9904,
-					"botFileName": "tags",
+					"botFileName": "ec_introducing_family_bot_01",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Tags"
+					"topic": "Introducing family - Current"
 				},
 				{
 					"trendId": 9905,
-					"botFileName": "bot_modals_have_01",
+					"botFileName": "ec_introducing_your_family_bot_01",
 					"isLockedTrend": 1,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Sentence Making"
+					"topic": "Introducing your family - Kavita"
 				},
 				{
 					"trendId": 9906,
