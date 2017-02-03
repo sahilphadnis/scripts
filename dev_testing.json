@@ -34,12 +34,12 @@
 				},
 				{
 					"trendId": 9904,
-					"botFileName": "ec_introducing_family_bot_01",
+					"botFileName": "seed_introduction_to_sql_bot_01",
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"topic": "Introducing family - Current"
+					"topic": "Seed"
 				},
 				{
 					"trendId": 9905,
