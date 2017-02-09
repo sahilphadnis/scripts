@@ -3,7 +3,7 @@
 	"chapters": [
 		{
 			"chapterId": 106,
-			"chapterName": "IL&FS Demo Testing",
+			"chapterName": "Learner On-boarding Testing",
 			"topics": [
 				{
 					"trendId": 988,
@@ -11,8 +11,8 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
-					"botFileName": "bot_ilfs_steward_cc_wrong_order_01_demo_hindi",
-					"topic": "Compliants - Wrong Order"
+					"botFileName": "bot_learner_onboarding",
+					"topic": "How Sling works"
 				}
 			]
 		},
