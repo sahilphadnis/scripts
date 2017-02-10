@@ -1776,6 +1776,109 @@
 					"isSeparator": 0,
 					"botFileName": "ato_emails_meeting_invitations_bot_01",
 					"topic": "Meeting Invitations"
+				},
+				{
+			"chapterId": 145,
+			"chapterName": "Interview Skills",
+			"topics": [
+				{
+					"trendId": 1161,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_introducing_yourself",
+					"topic": "Prep - Introducing Yourself"
+				},
+				{
+					"trendId": 1162,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_work_experience",
+					"topic": "Prep - Work Experience"
+				},
+				{
+					"trendId": 1163,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_your_strengths",
+					"topic": "Prep - Your Strengths"
+				},
+				{
+					"trendId": 1164,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_your_weaknesses",
+					"topic": "Prep - Your Weaknesses"
+				},
+				{
+					"trendId": 1165,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_future_goals",
+					"topic": "Prep - Future Goals"
+				},
+				{
+					"trendId": 1166,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_your_application",
+					"topic": "Prep - Your Application"
+				},
+				{
+					"trendId": 1167,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_about_the_company",
+					"topic": "Prep - About the Company"
+				},
+				{
+					"trendId": 1168,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_why_should_we_hire_you",
+					"topic": "Why should we hire you?"
+				},
+				{
+					"trendId": 1169,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_vocab_introducing_yourself",
+					"topic": "Vocab - Introducing Yourself"
+				},
+				{
+					"trendId": 1170,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_vocab_work_experience",
+					"topic": "Vocab - Work Experience"
+				},
+				{
+					"trendId": 1171,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "is_bot_vocab_your_application",
+					"topic": "Vocab - Your Application"
 				}
 			]
 		}
