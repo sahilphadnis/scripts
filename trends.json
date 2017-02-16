@@ -1881,6 +1881,15 @@
           "isSeparator": 0,
           "botFileName": "is_bot_vocab_your_application",
           "topic": "Vocab - Your Application"
+        },
+         {
+          "trendId": 1172,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hippocampus_demo_bot_01",
+          "topic": "In the classroom"
         }
       ]
     }
