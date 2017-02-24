@@ -1883,6 +1883,263 @@
           "topic": "Vocab - Your Application"
         }
       ]
+    },
+    {
+      "chapterId": 146,
+      "chapterName": "TATA BSFI",
+      "topics": []
+    },
+    {
+      "chapterId": 147,
+      "chapterName": "Introduction to Banking",
+      "topics": [
+        {
+          "trendId": 1172,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_what_is_a_bank_bot_01",
+          "topic": "What is a bank"
+        },
+        {
+          "trendId": 1173,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_understanding_your_sector_bot_01",
+          "topic": "Understanding your sector"
+        },
+        {
+          "trendId": 1174,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_types_of_banks_bot_01",
+          "topic": "Types of banks"
+        }
+      ]
+    },
+    {
+      "chapterId": 148,
+      "chapterName": "Sales Opportunities in Banking",
+      "topics": [
+        {
+          "trendId": 1175,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_what_is_sales_bot_01",
+          "topic": "What is Sales(Pre Test)"
+        },
+        {
+          "trendId": 1176,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_role_of_a_bde_bot_01",
+          "topic": "Role of a BDE"
+        }
+      ]
+    },
+    {
+      "chapterId": 149,
+      "chapterName": "On the Job",
+      "topics": [
+        {
+          "trendId": 1177,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_identifying_customers_bot_01",
+          "topic": "Identifying Customers"
+        },
+        {
+          "trendId": 1178,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_approaching_a_customer_ftf_bot_01",
+          "topic": "Approaching a Customer: Face to Face"
+        },
+        {
+          "trendId": 1179,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_approaching_a_customer_otp_bot_01",
+          "topic": "Approaching a Customer: 1On The Phone"
+        },
+        {
+          "trendId": 1180,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_following_up_bot_01",
+          "topic": "Following Up"
+        },
+        {
+          "trendId": 1181,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_negotiating_with_a_customer_bot_01",
+          "topic": "Negotiationg with a Customer"
+        },
+        {
+          "trendId": 1182,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_closing_a_sale_bot_01",
+          "topic": "Closing a Sale"
+        }
+      ]
+    },
+    {
+      "chapterId": 150,
+      "chapterName": "BFSI Sales",
+      "topics": [
+        {
+          "trendId": 1183,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_bfsi_products_bot_01",
+          "topic": "BFSI Products(Pre Test)"
+        },
+        {
+          "trendId": 1184,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_opening_a_bank_account_bot_01",
+          "topic": "Opening a bank account"
+        },
+        {
+          "trendId": 1185,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_bank_cards_bot_01",
+          "topic": "Bank Cards"
+        },
+        {
+          "trendId": 1186,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_loans_bot_01",
+          "topic": "Loans"
+        },
+        {
+          "trendId": 1187,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_starting_a_term_deposit_bot_01",
+          "topic": "Starting a Term Deposit"
+        },
+        {
+          "trendId": 1188,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_investing_in_mutual_funds_bot_01",
+          "topic": "Investing in Mutual Funds"
+        },
+        {
+          "trendId": 1189,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_mortgaging_an_asset_bot_01",
+          "topic": "Mortgaging an Asset"
+        },
+        {
+          "trendId": 1190,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_insurance_bot_01",
+          "topic": "Insurance"
+        },
+        {
+          "trendId": 1191,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_pronunciation_important_banking_words_bot_01",
+          "topic": "Pronunciation: Important Banking Words"
+        }
+      ]
+    },
+    {
+      "chapterId": 151,
+      "chapterName": "Final Test",
+      "topics": [
+        {
+          "trendId": 1192,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_mock_interview_bot_01",
+          "topic": "Mock Interview"
+        }
+      ]
+    },
+    {
+      "chapterId": 152,
+      "chapterName": "The Next Steps",
+      "topics": [
+        {
+          "trendId": 1193,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_what_is_tatastrive_bot_01",
+          "topic": "What is TATA Strive"
+        },
+        {
+          "trendId": 1194,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_how_tatastrive_can_help_bot_01",
+          "topic": "How TATA Strive can help"
+        },
+        {
+          "trendId": 1195,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_how_to_join_tatastrive_bot_01",
+          "topic": "How to join TATA Strive?"
+        }
+      ]
     }
   ]
 }
