@@ -1933,7 +1933,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "tata_bfsi_what_is_sales_bot_01",
-          "topic": "What is Sales(Pre Test)"
+          "topic": "What is Sales (Pre Test)"
         },
         {
           "trendId": 1176,
@@ -1975,7 +1975,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "tata_bfsi_approaching_a_customer_otp_bot_01",
-          "topic": "Approaching a Customer: 1On The Phone"
+          "topic": "Approaching a Customer: On The Phone"
         },
         {
           "trendId": 1180,
@@ -2017,7 +2017,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "tata_bfsi_bfsi_products_bot_01",
-          "topic": "BFSI Products(Pre Test)"
+          "topic": "BFSI Products (Pre Test)"
         },
         {
           "trendId": 1184,
@@ -2119,7 +2119,7 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "tata_bfsi_what_is_tatastrive_bot_01",
-          "topic": "What is TATA Strive"
+          "topic": "What is TATA Strive?"
         },
         {
           "trendId": 1194,
