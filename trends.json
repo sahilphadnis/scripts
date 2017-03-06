@@ -2140,6 +2140,30 @@
           "topic": "How to join TATA Strive?"
         }
       ]
+    },
+    {
+      "chapterId": 153,
+      "chapterName": "CLR - Faccilities Management",
+      "topics": [
+        {
+          "trendId": 1196,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hippocampus_demo_bot_01",
+          "topic": "In the classroom"
+        },
+        {
+          "trendId": 1197,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_demo_bot_01",
+          "topic": "CLR Skills Training - Communication"
+        }
+      ]
     }
   ]
 }
