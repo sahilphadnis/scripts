@@ -6,7 +6,7 @@
       "chapterName": "Learner On-boarding Testing",
       "topics": [
         {
-          "trendId": 988,
+          "trendId": 987,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -21,7 +21,7 @@
       "chapterName": "Seed Testing",
       "topics": [
         {
-          "trendId": 989,
+          "trendId": 988,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -30,7 +30,7 @@
           "topic": "Prepositions"
         },
         {
-          "trendId": 990,
+          "trendId": 989,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -39,7 +39,7 @@
           "topic": "Sub-queries"
         },
         {
-          "trendId": 991,
+          "trendId": 990,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -48,13 +48,22 @@
           "topic": "Introduction to SQL"
         },
         {
-          "trendId": 992,
+          "trendId": 991,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "bot_si_ti_retesting_regression_01",
           "topic": "Basics of Testing"
+        },       
+        {
+          "trendId": 992,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "seed_RDBMS_sql_bot_01",
+          "topic": "RDBMS"
         }
       ]
     },
