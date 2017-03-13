@@ -2,6 +2,26 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 102,
+      "chapterName": "Cafe Coffee Day",
+      "topics": []
+    },
+    {
+      "chapterId": 103,
+      "chapterName": "",
+      "topics": [
+        {
+          "trendId": 985,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ccd_bot_01",
+          "topic": "Cafe Coffee Day"
+        }
+      ]
+    },
+    {
       "chapterId": 104,
       "chapterName": "Swiggy",
       "topics": []
