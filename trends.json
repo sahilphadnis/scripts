@@ -16,7 +16,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ccd_bot_01",
+          "botFileName": "ccd_demo_bot_01",
           "topic": "Cafe Coffee Day"
         }
       ]
@@ -36,7 +36,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "swiggy_asking_for_directions_bot_01",
+          "botFileName": "swiggy_demo_bot_01",
           "topic": "Swiggy - Asking for Directions"
         }
       ]
