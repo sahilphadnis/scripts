@@ -2,6 +2,26 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 104,
+      "chapterName": "Swiggy",
+      "topics": []
+    },
+    {
+      "chapterId": 105,
+      "chapterName": "",
+      "topics": [
+        {
+          "trendId": 986,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "swiggy_asking_for_directions_bot_01",
+          "topic": "Swiggy - Asking for Directions"
+        }
+      ]
+    },
+    {
       "chapterId": 106,
       "chapterName": "Learner On-boarding Testing",
       "topics": [
@@ -55,7 +75,7 @@
           "isSeparator": 0,
           "botFileName": "bot_si_ti_retesting_regression_01",
           "topic": "Basics of Testing"
-        },       
+        },
         {
           "trendId": 992,
           "isLockedTrend": 0,
