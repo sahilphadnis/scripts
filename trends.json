@@ -11,6 +11,15 @@
       "chapterName": "",
       "topics": [
         {
+          "trendId": 984,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "portea_demo_bot_01",
+          "topic": "Portea Demo"
+        },
+        {
           "trendId": 985,
           "isLockedTrend": 0,
           "isLearnBot": 1,
