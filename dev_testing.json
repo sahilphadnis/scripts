@@ -22,6 +22,15 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Tags"
+        },
+        {
+          "trendId": 9903,
+          "botFileName": "bot_simple_present_tense",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Simple Present Tense"
         }
       ]
     }
