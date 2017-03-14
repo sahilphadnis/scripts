@@ -31,6 +31,15 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Simple Present Tense"
+        },
+        {
+          "trendId": 9904,
+          "botFileName": "dev_gif",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Gif"
         }
       ]
     }
