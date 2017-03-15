@@ -2,14 +2,9 @@
   "productId": 3,
   "chapters": [
     {
-      "chapterId": 102,
-      "chapterName": "Cafe Coffee Day",
-      "topics": []
-    },
-    {
-      "chapterId": 103,
-      "chapterName": "",
-      "topics": [
+      "chapterId": 101,
+      "chapterName": "Portea",
+      "topics": [        
         {
           "trendId": 984,
           "isLockedTrend": 0,
@@ -18,7 +13,18 @@
           "isSeparator": 0,
           "botFileName": "portea_demo_bot_01",
           "topic": "Portea Demo"
-        },
+        }
+      ]
+    },
+    {
+      "chapterId": 102,
+      "chapterName": "Cafe Coffee Day",
+      "topics": []
+    },
+    {
+      "chapterId": 103,
+      "chapterName": "",
+      "topics": [
         {
           "trendId": 985,
           "isLockedTrend": 0,
