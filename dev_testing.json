@@ -42,13 +42,22 @@
           "topic": "Gif"
         },
         {
-          "trendId": 9904,
+          "trendId": 9905,
           "botFileName": "master_bot_testing",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Master"
+        },
+        {
+          "trendId": 9906,
+          "botFileName": "record_testing",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Record Testing"
         }
       ]
     }
