@@ -7,7 +7,7 @@
       "topics": [
         {
           "trendId": 9901,
-          "botFileName": "video_test",
+          "botFileName": "seed_video",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -16,48 +16,21 @@
         },
         {
           "trendId": 9902,
-          "botFileName": "tags",
+          "botFileName": "test_video",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "topic": "Tags"
+          "topic": "Sample Videos"
         },
         {
           "trendId": 9903,
-          "botFileName": "bot_simple_present_tense",
+          "botFileName": "test_video_3gp",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "topic": "Simple Present Tense"
-        },
-        {
-          "trendId": 9904,
-          "botFileName": "dev_gif",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Gif"
-        },
-        {
-          "trendId": 9905,
-          "botFileName": "master_bot_testing",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Master"
-        },
-        {
-          "trendId": 9906,
-          "botFileName": "record_testing",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Record Testing"
+          "topic": "3GP Videos"
         }
       ]
     }
