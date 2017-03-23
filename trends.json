@@ -2226,6 +2226,15 @@
           "isSeparator": 0,
           "botFileName": "clr_demo_bot_01",
           "topic": "CLR Skills Training - Communication"
+        },
+         {
+          "trendId": 1198,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hippocampus_introduction_bot_01",
+          "topic": "Hippocampus - Sample session"
         }
       ]
     }
