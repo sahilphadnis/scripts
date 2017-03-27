@@ -1953,12 +1953,27 @@
       "chapterName": "TATA BSFI",
       "topics": []
     },
-    {
+     {
       "chapterId": 147,
+      "chapterName": "Getting Started",
+      "topics": [
+       {
+          "trendId": 1172,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_how_will_this_course_help_bot_01",
+          "topic": "How will this course help you?"
+        }
+      ]
+    },
+    {
+      "chapterId": 148,
       "chapterName": "Introduction to Banking",
       "topics": [
         {
-          "trendId": 1172,
+          "trendId": 1173,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -1967,7 +1982,7 @@
           "topic": "What is a bank"
         },
         {
-          "trendId": 1173,
+          "trendId": 1174,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -1976,7 +1991,7 @@
           "topic": "Understanding your sector"
         },
         {
-          "trendId": 1174,
+          "trendId": 1175,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -1987,11 +2002,11 @@
       ]
     },
     {
-      "chapterId": 148,
+      "chapterId": 149,
       "chapterName": "Sales Opportunities in Banking",
       "topics": [
         {
-          "trendId": 1175,
+          "trendId": 1176,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2000,7 +2015,7 @@
           "topic": "What is Sales (Pre Test)"
         },
         {
-          "trendId": 1176,
+          "trendId": 1177,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2011,11 +2026,11 @@
       ]
     },
     {
-      "chapterId": 149,
+      "chapterId": 150,
       "chapterName": "On the Job",
       "topics": [
         {
-          "trendId": 1177,
+          "trendId": 1178,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2024,7 +2039,7 @@
           "topic": "Identifying Customers"
         },
         {
-          "trendId": 1178,
+          "trendId": 1179,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2033,7 +2048,7 @@
           "topic": "Approaching a Customer: Face to Face"
         },
         {
-          "trendId": 1179,
+          "trendId": 1180,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2042,7 +2057,7 @@
           "topic": "Approaching a Customer: On The Phone"
         },
         {
-          "trendId": 1180,
+          "trendId": 1181,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2051,7 +2066,7 @@
           "topic": "Following Up"
         },
         {
-          "trendId": 1181,
+          "trendId": 1182,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2060,7 +2075,7 @@
           "topic": "Negotiationg with a Customer"
         },
         {
-          "trendId": 1182,
+          "trendId": 1183,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2071,11 +2086,11 @@
       ]
     },
     {
-      "chapterId": 150,
+      "chapterId": 151,
       "chapterName": "BFSI Sales",
       "topics": [
         {
-          "trendId": 1183,
+          "trendId": 1184,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2084,7 +2099,7 @@
           "topic": "BFSI Products (Pre Test)"
         },
         {
-          "trendId": 1184,
+          "trendId": 1185,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2093,7 +2108,7 @@
           "topic": "Opening a bank account"
         },
         {
-          "trendId": 1185,
+          "trendId": 1186,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2102,7 +2117,7 @@
           "topic": "Bank Cards"
         },
         {
-          "trendId": 1186,
+          "trendId": 1187,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2111,7 +2126,7 @@
           "topic": "Loans"
         },
         {
-          "trendId": 1187,
+          "trendId": 1188,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2120,7 +2135,7 @@
           "topic": "Starting a Term Deposit"
         },
         {
-          "trendId": 1188,
+          "trendId": 1189,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2129,7 +2144,7 @@
           "topic": "Investing in Mutual Funds"
         },
         {
-          "trendId": 1189,
+          "trendId": 1190,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2138,7 +2153,7 @@
           "topic": "Mortgaging an Asset"
         },
         {
-          "trendId": 1190,
+          "trendId": 1191,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2147,7 +2162,7 @@
           "topic": "Insurance"
         },
         {
-          "trendId": 1191,
+          "trendId": 1192,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2158,11 +2173,11 @@
       ]
     },
     {
-      "chapterId": 151,
+      "chapterId": 152,
       "chapterName": "Final Test",
       "topics": [
         {
-          "trendId": 1192,
+          "trendId": 1193,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2171,7 +2186,7 @@
           "topic": "Mock Interview"
         },
         {
-          "trendId": 1193,
+          "trendId": 1194,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2180,7 +2195,7 @@
           "topic": "Test 1: Banking Sector"
         },
         {
-          "trendId": 1194,
+          "trendId": 1195,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2191,11 +2206,11 @@
       ]
     },
     {
-      "chapterId": 152,
+      "chapterId": 153,
       "chapterName": "The Next Steps",
       "topics": [
         {
-          "trendId": 1195,
+          "trendId": 1196,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2204,7 +2219,7 @@
           "topic": "What is TATA Strive?"
         },
         {
-          "trendId": 1196,
+          "trendId": 1197,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2213,7 +2228,7 @@
           "topic": "How TATA Strive can help"
         },
         {
-          "trendId": 7,
+          "trendId": 1198,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2224,11 +2239,11 @@
       ]
     },
     {
-      "chapterId": 153,
+      "chapterId": 154,
       "chapterName": "CLR - Facilities Management",
       "topics": [
         {
-          "trendId": 1198,
+          "trendId": 1199,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2237,7 +2252,7 @@
           "topic": "In the classroom"
         },
         {
-          "trendId": 1199,
+          "trendId": 1200,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2246,7 +2261,7 @@
           "topic": "CLR Skills Training - Communication"
         },
          {
-          "trendId": 1200,
+          "trendId": 1201,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
