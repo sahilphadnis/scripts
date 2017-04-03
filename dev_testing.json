@@ -13,24 +13,6 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Seed Videos"
-        },
-        {
-          "trendId": 9902,
-          "botFileName": "master_bot_testing",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "Dev testing"
-        },
-        {
-          "trendId": 9903,
-          "botFileName": "test_video_3gp",
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "topic": "3GP Videos"
         }
       ]
     }
