@@ -7,7 +7,7 @@
       "topics": [
         {
           "trendId": 9901,
-          "botFileName": "seed_video",
+          "botFileName": "dev_video",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
