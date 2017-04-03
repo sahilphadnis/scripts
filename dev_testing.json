@@ -7,12 +7,12 @@
       "topics": [
         {
           "trendId": 9901,
-          "botFileName": "dev_video",
+          "botFileName": "seed_QA_Number_System_bot_01",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "topic": "Seed Videos"
+          "topic": "QA: Video Demo"
         }
       ]
     }
