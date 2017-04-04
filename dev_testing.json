@@ -14,14 +14,23 @@
           "isSeparator": 0,
           "topic": "QA: Video Demo"
         },
-    {
-          "trendId": 9903,
+         {
+          "trendId": 9902,
           "botFileName": "master_bot_testing",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Dev Testing"
+        },
+         {
+          "trendId": 9903,
+          "botFileName": "score_tags",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Score Tags Testing"
         }
       ]
     }
