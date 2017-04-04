@@ -25,7 +25,7 @@
         },
          {
           "trendId": 9903,
-          "botFileName": "tata_bfsi_test_banking_sector_01",
+          "botFileName": "score_tags",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
