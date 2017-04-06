@@ -3,7 +3,7 @@
   "chapters": [ 
     {
       "chapterId": 100,
-      "chapterName": "Seed",
+      "chapterName": "Hippocampus",
       "topics": [
         {
           "trendId": 983,
@@ -11,8 +11,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "seed_QA_Number_System_bot_01",
-          "topic": "Seed QA Number System"
+          "botFileName": "hipl1_holidays_bot_01",
+          "topic": "Holidays"
         }
       ]
     },
