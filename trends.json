@@ -6,6 +6,15 @@
       "chapterName": "Krystal",
       "topics": [
         {
+          "trendId": 981,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "krystal_frisking_bot_hindi_01",
+          "topic": "Frisking - Hindi"
+        },
+        {
           "trendId": 982,
           "isLockedTrend": 0,
           "isLearnBot": 1,
