@@ -6,7 +6,7 @@
       "chapterName": "Krystal",
       "topics": [
         {
-          "trendId": 981,
+          "trendId": 979,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -15,7 +15,7 @@
           "topic": "Frisking - Hindi"
         },
         {
-          "trendId": 982,
+          "trendId": 980,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -30,7 +30,7 @@
       "chapterName": "Hippocampus",
       "topics": [
         {
-          "trendId": 983,
+          "trendId": 981,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -45,7 +45,7 @@
       "chapterName": "Portea",
       "topics": [        
         {
-          "trendId": 984,
+          "trendId": 982,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -57,13 +57,31 @@
     },
     {
       "chapterId": 102,
-      "chapterName": "Cafe Coffee Day",
+      "chapterName": "Café  Coffee Day",
       "topics": []
     },
     {
       "chapterId": 103,
       "chapterName": "",
       "topics": [
+       {
+          "trendId": 983,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ccd_demo_bot_01_kannada",
+          "topic": "Kannada"
+        },
+        {
+          "trendId": 984,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ccd_demo_original_bot_01",
+          "topic": " English with Kn"
+        },
         {
           "trendId": 985,
           "isLockedTrend": 0,
