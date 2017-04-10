@@ -1,6 +1,21 @@
 {
   "productId": 3,
   "chapters": [ 
+   {
+      "chapterId": 99,
+      "chapterName": "Krystal",
+      "topics": [
+        {
+          "trendId": 982,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "krystal_frisking_bot_01",
+          "topic": "Frisking"
+        }
+      ]
+    },
     {
       "chapterId": 100,
       "chapterName": "Hippocampus",
