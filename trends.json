@@ -3,7 +3,7 @@
   "chapters": [ 
    {
       "chapterId": 99,
-      "chapterName": "Krystal",
+      "chapterName": "Dusters",
       "topics": [
         {
           "trendId": 979,
@@ -11,8 +11,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "krystal_frisking_bot_hindi_01",
-          "topic": "Frisking - Hindi"
+          "botFileName": "dusters_demo_protective_gear_bot_01",
+          "topic": "Protective Gear"
         },
         {
           "trendId": 980,
@@ -20,8 +20,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "krystal_frisking_bot_01",
-          "topic": "Frisking"
+          "botFileName": "dusters_demo_mopping_wiping_bot_01",
+          "topic": "Mopping and Wiping"
         }
       ]
     },
