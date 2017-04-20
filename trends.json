@@ -6,7 +6,7 @@
       "chapterName": "Dusters",
       "topics": [
         {
-          "trendId": 979,
+          "trendId": 976,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -15,7 +15,7 @@
           "topic": "Protective Gear"
         },
         {
-          "trendId": 980,
+          "trendId": 977,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -29,6 +29,33 @@
       "chapterId": 100,
       "chapterName": "Hippocampus",
       "topics": [
+        {
+          "trendId": 978,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_students_answer_questions_bot_01",
+          "topic": "Students Answer Questions"
+        },
+        {
+          "trendId": 979,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_getting_started_bot_01",
+          "topic": "Getting Started"
+        },
+        {
+          "trendId": 980,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_noisy_class_bot_01",
+          "topic": "Handling a Noisy Class"
+        },
         {
           "trendId": 981,
           "isLockedTrend": 0,
