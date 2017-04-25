@@ -13,6 +13,15 @@
           "isSeparator": 0,
           "botFileName": "seed_sql_introduction_bot_01",
           "topic": "Introduction to SQL"
+        },
+				{
+          "trendId": 1,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "master_bot_testing",
+          "topic": "Dev Test"
         }
 
 			]
