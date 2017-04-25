@@ -2,9 +2,18 @@
 	"productId": 3,
 	"chapters": [
 		{
-				"chapterId": 98,
-			"chapterName": "Dev Testing",
-			"topics": [	
+				"chapterId": 1,
+			"chapterName": "SQL",
+			"topics": [
+				{
+          "trendId": 1,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "seed_sql_introduction_bot_01",
+          "topic": "Introduction to SQL"
+        }
 
 			]
 		}
