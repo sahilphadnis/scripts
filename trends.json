@@ -6,7 +6,7 @@
       "chapterName": "Dusters",
       "topics": [
         {
-          "trendId": 976,
+          "trendId": 972,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -15,7 +15,7 @@
           "topic": "Dusters: Protective Gear"
         },
         {
-          "trendId": 977,
+          "trendId": 973,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -29,6 +29,42 @@
       "chapterId": 100,
       "chapterName": "Hippocampus",
       "topics": [
+        {
+          "trendId": 974,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_alphabet_bot_01",
+          "topic": "The Alphabet 01"
+        },
+        {
+          "trendId": 975,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_alphabet_bot_02",
+          "topic": "The Alphabet 02"
+        },
+        {
+          "trendId": 976,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_blackboard_bot_01",
+          "topic": "The Blackboard"
+        },
+        {
+          "trendId": 977,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_completing_math_sum_bot_01",
+          "topic": "Completing a Math Sum"
+        },
         {
           "trendId": 978,
           "isLockedTrend": 0,
