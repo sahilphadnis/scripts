@@ -6,7 +6,7 @@
       "chapterName": "Dusters",
       "topics": [
         {
-          "trendId": 971,
+          "trendId": 970,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -15,7 +15,7 @@
           "topic": "Dusters: Protective Gear"
         },
         {
-          "trendId": 972,
+          "trendId": 971,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -29,6 +29,15 @@
       "chapterId": 100,
       "chapterName": "Hippocampus",
       "topics": [
+        {
+          "trendId": 972,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_showing_objects_bot_01",
+          "topic": "Showing Objects"
+        },
         {
           "trendId": 973,
           "isLockedTrend": 0,
