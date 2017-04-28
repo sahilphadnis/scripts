@@ -3,25 +3,16 @@
   "chapters": [ 
    {
       "chapterId": 99,
-      "chapterName": "Dusters",
+      "chapterName": "CLR",
       "topics": [
-        {
-          "trendId": 970,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "dusters_demo_protective_gear_bot_01",
-          "topic": "Dusters: Protective Gear"
-        },
         {
           "trendId": 971,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "dusters_demo_mopping_wiping_bot_01",
-          "topic": "Mopping and Wiping"
+          "botFileName": "clr_housekeeping_equipment_bot_01",
+          "topic": "Housekeeping Equipment"
         }
       ]
     },
