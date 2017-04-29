@@ -2,6 +2,20 @@
   "productId": 3,
   "chapters": [ 
    {
+      "chapterId": 98,
+      "chapterName": "ILFS",
+      "topics": [
+        {
+          "trendId": 970,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ilfs_rpl_steward_s01_bot_01",
+          "topic": "N0301 - Planning and Preparing for Service"
+        }
+      ]
+    },{
       "chapterId": 99,
       "chapterName": "CLR",
       "topics": [
