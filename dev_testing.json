@@ -16,7 +16,7 @@
         },
          {
           "trendId": 9902,
-          "botFileName": "master_bot_testing",
+          "botFileName": "dev/master_bot_testing",
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
