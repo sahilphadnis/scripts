@@ -6,7 +6,7 @@
       "chapterName": "ILFS",
       "topics": [
         {
-          "trendId": 970,
+          "trendId": 968,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -20,7 +20,7 @@
       "chapterName": "CLR",
       "topics": [
         {
-          "trendId": 971,
+          "trendId": 969,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -34,6 +34,23 @@
       "chapterId": 100,
       "chapterName": "Hippocampus",
       "topics": [
+        {
+          "trendId": 970,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_using_lego_blocks_bot_01",
+          "topic": "Using Lego Blocks"
+        },{
+          "trendId": 971,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hipl1_going_out_to_play_bot_01",
+          "topic": "Going out to Play"
+        },
         {
           "trendId": 972,
           "isLockedTrend": 0,
