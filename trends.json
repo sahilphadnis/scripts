@@ -2361,11 +2361,29 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
+          "botFileName": "tata_bfsi_final_test_01_bot_01",
+          "topic": "Final Test 1"
+        },
+         {
+          "trendId": 1195,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tata_bfsi_final_test_01_bot_01",
+          "topic": "Final Test 2"
+        },
+         {
+          "trendId": 1196,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
           "botFileName": "tata_bfsi_test_banking_sector_01",
           "topic": "Test 1: Banking Sector"
         },
         {
-          "trendId": 1195,
+          "trendId": 1197,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2380,7 +2398,7 @@
       "chapterName": "The Next Steps",
       "topics": [
         {
-          "trendId": 1196,
+          "trendId": 1198,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2389,7 +2407,7 @@
           "topic": "What is TATA Strive?"
         },
         {
-          "trendId": 1197,
+          "trendId": 1199,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2398,7 +2416,7 @@
           "topic": "How TATA Strive can help"
         },
         {
-          "trendId": 1198,
+          "trendId": 1200,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2413,7 +2431,7 @@
       "chapterName": "CLR - Facilities Management",
       "topics": [
         {
-          "trendId": 1199,
+          "trendId": 1201,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2422,7 +2440,7 @@
           "topic": "In the classroom"
         },
         {
-          "trendId": 1200,
+          "trendId": 1202,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -2431,7 +2449,7 @@
           "topic": "CLR Skills Training - Communication"
         },
          {
-          "trendId": 1201,
+          "trendId": 1203,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
