@@ -22,6 +22,15 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Developer Test"
+        },
+         {
+          "trendId": 9903,
+          "botFileName": "parse_error",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Parse Error Script"
         }
       ]
     }
