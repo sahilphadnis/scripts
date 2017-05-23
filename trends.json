@@ -1,12 +1,260 @@
 {
   "productId": 3,
-  "chapters": [ 
-   {
+  "chapters": [
+    {
+      "chapterId": 92,
+      "chapterName": "CLR Facilities Management",
+      "topics": []
+    },
+    {
+      "chapterId": 93,
+      "chapterName": "Welcome to CLR (Common)",
+      "topics": [
+        {
+          "trendId": 945,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_about_clr_bot_01",
+          "topic": "About CLR"
+        },
+        {
+          "trendId": 946,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_achieve_success_with_clr_bot_01",
+          "topic": "Achieve success with CLR"
+        }
+      ]
+    },
+    {
+      "chapterId": 94,
+      "chapterName": "How to be at work (Common)",
+      "topics": [
+        {
+          "trendId": 947,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_personal_hygiene_bot_01",
+          "topic": "Personal Hygiene"
+        },
+        {
+          "trendId": 948,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_grooming_bot_01",
+          "topic": "Grooming"
+        },
+        {
+          "trendId": 949,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_work_hygiene_bot_01",
+          "topic": "Work Hygiene"
+        },
+        {
+          "trendId": 950,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_body_language_bot_01",
+          "topic": "Body Language"
+        },
+        {
+          "trendId": 951,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_personal_conduct_bot_01",
+          "topic": "Personal Conduct"
+        }
+      ]
+    },
+    {
+      "chapterId": 95,
+      "chapterName": "Housekeeping Equipment",
+      "topics": [
+        {
+          "trendId": 952,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_housekeeping_equipment_01_bot_01",
+          "topic": "Housekeeping Equipment 01"
+        },
+        {
+          "trendId": 953,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_housekeeping_equipment_02_bot_01",
+          "topic": "Housekeeping Equipment 02"
+        },
+        {
+          "trendId": 954,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_housekeeping_equipment_03_bot_01",
+          "topic": "Housekeeping Equipment 03"
+        },
+        {
+          "trendId": 955,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_chemicals_used_bot_01",
+          "topic": "Chemicals Used"
+        }
+      ]
+    },
+    {
+      "chapterId": 96,
+      "chapterName": "Housekeeping Processes",
+      "topics": [
+        {
+          "trendId": 956,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_dry_mopping_bot_01",
+          "topic": "Dry Mopping"
+        },
+        {
+          "trendId": 957,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_wet_mopping_bot_01",
+          "topic": "Wet Mopping"
+        },
+        {
+          "trendId": 958,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_cleaning_toilets_bot_01",
+          "topic": "Cleaning Toilets"
+        },
+        {
+          "trendId": 959,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_cleaning_glasss_bot_01",
+          "topic": "Cleaning Glass"
+        }
+      ]
+    },
+    {
+      "chapterId": 97,
+      "chapterName": "Pantry Staff",
+      "topics": [
+        {
+          "trendId": 960,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_pantry_staff_grooming_bot_01",
+          "topic": "Pantry Staff Grooming"
+        },
+        {
+          "trendId": 961,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_pantry_staff_etiquette_bot_01",
+          "topic": "Pantry Staff Etiquette"
+        },
+        {
+          "trendId": 962,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_service_techniques_bot_01",
+          "topic": "Service Techniques"
+        },
+        {
+          "trendId": 963,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_room_setup_bot_01",
+          "topic": "Room Setup"
+        },
+        {
+          "trendId": 964,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_taking_orders_bot_01",
+          "topic": "Taking Orders"
+        },
+        {
+          "trendId": 965,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_customer_satisfaction_bot_01",
+          "topic": "Customer Satisfaction"
+        }
+      ]
+    },
+    {
       "chapterId": 98,
+      "chapterName": "Points to Remember (Common)",
+      "topics": [
+        {
+          "trendId": 966,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_who_is_a_good_employee_bot_01",
+          "topic": "Who is a good employee?"
+        },
+        {
+          "trendId": 967,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_important_rules_to_remember_bot_01",
+          "topic": "Important Rules to Remember"
+        }
+      ]
+    },
+    {
+      "chapterId": 99,
       "chapterName": "ILFS",
       "topics": [
         {
-          "trendId": 967,
+          "trendId": 968,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -15,7 +263,8 @@
           "topic": "N0301 - Planning and Preparing for Service"
         }
       ]
-    },{
+    },
+    {
       "chapterId": 99,
       "chapterName": "CLR",
       "topics": [
@@ -156,7 +405,7 @@
     {
       "chapterId": 101,
       "chapterName": "Portea",
-      "topics": [        
+      "topics": [
         {
           "trendId": 982,
           "isLockedTrend": 0,
@@ -177,7 +426,7 @@
       "chapterId": 103,
       "chapterName": "",
       "topics": [
-       {
+        {
           "trendId": 983,
           "isLockedTrend": 0,
           "isLearnBot": 1,
@@ -2123,11 +2372,11 @@
       "chapterName": "TATA BSFI",
       "topics": []
     },
-     {
+    {
       "chapterId": 147,
       "chapterName": "Getting Started",
       "topics": [
-       {
+        {
           "trendId": 1172,
           "isLockedTrend": 0,
           "isLearnBot": 1,
@@ -2364,7 +2613,7 @@
           "botFileName": "tata_bfsi_final_test_01_bot_01",
           "topic": "Final Test 1"
         },
-         {
+        {
           "trendId": 1195,
           "isLockedTrend": 0,
           "isLearnBot": 1,
@@ -2373,7 +2622,7 @@
           "botFileName": "tata_bfsi_final_test_02_bot_01",
           "topic": "Final Test 2"
         },
-         {
+        {
           "trendId": 1196,
           "isLockedTrend": 0,
           "isLearnBot": 1,
@@ -2428,7 +2677,7 @@
     },
     {
       "chapterId": 154,
-      "chapterName": "CLR - Facilities Management",
+      "chapterName": "CLR - Facilities Management (Demo)",
       "topics": [
         {
           "trendId": 1201,
@@ -2448,7 +2697,7 @@
           "botFileName": "clr_demo_bot_01",
           "topic": "CLR Skills Training - Communication"
         },
-         {
+        {
           "trendId": 1203,
           "isLockedTrend": 0,
           "isLearnBot": 1,
