@@ -265,21 +265,6 @@
       ]
     },
     {
-      "chapterId": 99,
-      "chapterName": "CLR",
-      "topics": [
-        {
-          "trendId": 968,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_housekeeping_equipment_bot_01",
-          "topic": "Housekeeping Equipment"
-        }
-      ]
-    },
-    {
       "chapterId": 100,
       "chapterName": "Hippocampus",
       "topics": [
