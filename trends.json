@@ -2,6 +2,21 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 91,
+      "chapterName": "Dusters Kannada Demo",
+      "topics": [
+      {
+          "trendId": 944,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "dusters_demo_mopping_procedures_bot_01",
+          "topic": "Mopping Procedure- Kannada"
+        }
+      ]
+    },
+    {
       "chapterId": 92,
       "chapterName": "CLR Facilities Management",
       "topics": []
