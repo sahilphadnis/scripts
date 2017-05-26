@@ -2,6 +2,30 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 90,
+      "chapterName": "Portea Kannada Demo",
+      "topics": [
+      {
+          "trendId": 940,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "portea_on_the_job_bot_01",
+          "topic": "On the Job Etiquette"
+        },
+        {
+          "trendId": 941,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "portea_core_values_bot_01",
+          "topic": "Core Values"
+        }
+      ]
+    },
+    {
       "chapterId": 91,
       "chapterName": "Dusters Kannada Demo",
       "topics": [
