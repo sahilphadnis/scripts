@@ -3,7 +3,7 @@
   "chapters": [
     {
       "chapterId": 90,
-      "chapterName": "Portea Kannada Demo",
+      "chapterName": "Hippocampus 02",
       "topics": [
       {
           "trendId": 940,
@@ -11,8 +11,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "portea_on_the_job_bot_01",
-          "topic": "On the Job Etiquette"
+          "botFileName": "hipl1_end_of_class_bot_01",
+          "topic": "Ending of Class"
         },
         {
           "trendId": 941,
@@ -20,8 +20,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "portea_core_values_bot_01",
-          "topic": "Core Values"
+          "botFileName": "hipl1_final_instructions_bot_01",
+          "topic": "Final Instructions"
         }
       ]
     },
