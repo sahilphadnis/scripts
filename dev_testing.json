@@ -31,6 +31,24 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Parse Error Script"
+        },
+         {
+          "trendId": 9904,
+          "botFileName": "dusters_demo_mopping_procedures_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Parse Error Script"
+        },
+         {
+          "trendId": 9905,
+          "botFileName": "dusters_demo_mopping_procedures_bot_hindi_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Parse Error Script"
         }
       ]
     }
