@@ -5,7 +5,16 @@
       "chapterId": 90,
       "chapterName": "Hippocampus 02",
       "topics": [
-      {
+        {
+          "trendId": 939,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "hippocampus_introduction_bot_01",
+          "topic": "Introduction"
+        },       
+        {
           "trendId": 940,
           "isLockedTrend": 0,
           "isLearnBot": 1,
