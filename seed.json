@@ -11,8 +11,44 @@
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
+					"botFileName": "seed_DBMS_sql_bot_01",
+					"topic": "Understanding Database Concepts"
+				},
+				{
+					"trendId": 2,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_RDBMS_sql_bot_01",
+					"topic": "RDBMS Terminology"
+				},
+				{
+					"trendId": 3,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
 					"botFileName": "seed_sql_introduction_bot_01",
 					"topic": "Introduction to SQL"
+				},
+				{
+					"trendId": 4,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_sql_Sort_Filter_bot_01",
+					"topic": "Filtering and Sorting Data"
+				},
+				{
+					"trendId": 5,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_BasicOperators1_bot_01",
+					"topic": "Using Operators - I"
 				}
 			]
 		}
