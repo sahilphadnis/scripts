@@ -2,6 +2,21 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 49,
+      "chapterName": "Taj Hotels: Security Associate",
+      "topics": [
+        {
+          "trendId": 699,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_sa_at_the_main_gate_hi_bot_01",
+          "topic": "At the Main Gate"
+        }
+      ]
+    },
+    {
       "chapterId": 50,
       "chapterName": "Hippocampus Level 01",
       "topics": []
