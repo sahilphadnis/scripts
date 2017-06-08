@@ -6,13 +6,22 @@
       "chapterName": "Taj Hotels: Security Associate",
       "topics": [
         {
-          "trendId": 699,
+          "trendId": 698,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "tajhotels_sa_at_the_main_gate_hi_bot_01",
           "topic": "At the Main Gate"
+        },
+        {
+          "trendId": 699,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_sa_at_the_main_porch_hi_bot_01",
+          "topic": "At the Main Porch"
         }
       ]
     },
