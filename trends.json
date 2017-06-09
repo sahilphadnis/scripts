@@ -2,17 +2,95 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 48,
+      "chapterName": "Taj Hotels: Housekeeping",
+      "topics": [
+        {
+          "trendId": 690,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_housekeeping_pre_test_hi_bot_01",
+          "topic": "छोटी सी परीक्षा"
+        },
+        {
+          "trendId": 691,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_simple_greetings_hi_bot_01",
+          "topic": "स्वागत के कुछ आसान तरीकें"
+        },
+        {
+          "trendId": 692,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_housekeeping_etr_hi_bot_01",
+          "topic": "रूम में प्रवेश करना"
+        },
+        {
+          "trendId": 693,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_housekeeping_atq_hi_bot_01",
+          "topic": "गेस्ट से सवाल जवाब"
+        },
+        {
+          "trendId": 694,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_housekeeping_post_test_hi_bot_01",
+          "topic": "अब तक की सीख"
+        }
+      ]
+    },
+    {
       "chapterId": 49,
       "chapterName": "Taj Hotels: Security Associate",
       "topics": [
+        {
+          "trendId": 695,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_security_associate_pre_test_hi_bot_01",
+          "topic": "छोटी सी परीक्षा"
+        },
+        {
+          "trendId": 696,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_simple_greetings_hi_bot_01",
+          "topic": "स्वागत के कुछ आसान तरीकें"
+        },
+        {
+          "trendId": 697,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "tajhotels_sa_at_the_main_gate_hi_bot_01",
+          "topic": "मैन गेट पर"
+        },
         {
           "trendId": 698,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "tajhotels_sa_at_the_main_gate_hi_bot_01",
-          "topic": "At the Main Gate"
+          "botFileName": "tajhotels_sa_at_the_main_porch_hi_bot_01",
+          "topic": "मैन पोर्च में"
         },
         {
           "trendId": 699,
@@ -20,8 +98,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "tajhotels_sa_at_the_main_porch_hi_bot_01",
-          "topic": "At the Main Porch"
+          "botFileName": "tajhotels_security_associate_post_test_hi_bot_01",
+          "topic": "अब तक की सीख"
         }
       ]
     },
