@@ -11,7 +11,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "tajhotels_housekeeping_pre_test_hi_bot_01",
+          "botFileName": "tajhotels_housekeeping_pretest_hi_bot_01",
           "topic": "छोटी सी परीक्षा"
         },
         {
@@ -47,7 +47,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "tajhotels_housekeeping_post_test_hi_bot_01",
+          "botFileName": "tajhotels_housekeeping_posttest_hi_bot_01",
           "topic": "अब तक की सीख"
         }
       ]
@@ -62,7 +62,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "tajhotels_security_associate_pre_test_hi_bot_01",
+          "botFileName": "tajhotels_security_associate_pretest_hi_bot_01",
           "topic": "छोटी सी परीक्षा"
         },
         {
@@ -98,7 +98,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "tajhotels_security_associate_post_test_hi_bot_01",
+          "botFileName": "tajhotels_security_associate_posttest_hi_bot_01",
           "topic": "अब तक की सीख"
         }
       ]
