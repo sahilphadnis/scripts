@@ -49,6 +49,15 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Parse Error Script"
+        },
+        {
+          "trendId": 9905,
+          "botFileName": "tajhotels_housekeeping_etr_hi_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Pravesh"
         }
       ]
     }
