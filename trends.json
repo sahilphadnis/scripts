@@ -1,6 +1,21 @@
 {
   "productId": 3,
   "chapters": [
+        {
+      "chapterId": 47,
+      "chapterName": "CLR: Housekeeping Processes",
+      "topics": [
+        {
+          "trendId": 689,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "clr_mr_cleaning_toilets_bot_01",
+          "topic": "Cleaning Toilets"
+        }
+      ]
+    },
     {
       "chapterId": 48,
       "chapterName": "Taj Hotels: Housekeeping",
