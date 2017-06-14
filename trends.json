@@ -548,6 +548,30 @@
           "topic": "Encouraging the Children"
         }
       ]
-    }
+    },
+        {
+      "chapterId": 54,
+      "chapterName": "Reliance Foundation: Retail",
+      "topics": [
+        {
+          "trendId": 720,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "rf_retail_en_hcq_bot_01",
+          "topic": "Handling Customer Queries"
+        },
+        {
+          "trendId": 721,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "rf_retail_en_ccc_bot_01",
+          "topic": "Common Customer Complaints 01"
+        }
+      ]
+    } 
   ]
 }
