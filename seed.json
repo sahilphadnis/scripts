@@ -57,7 +57,7 @@
 			"chapterName": "Quantitative Aptitude",
 			"topics": [
 				{
-					"trendId": 1,
+					"trendId": 6,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -66,7 +66,7 @@
 					"topic": "Number System - Divisibility Rules"
 				},
 				{
-					"trendId": 2,
+					"trendId": 7,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -75,7 +75,7 @@
 					"topic": "Number System - Power Cycle"
 				},
 				{
-					"trendId": 3,
+					"trendId": 8,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -84,7 +84,7 @@
 					"topic": "Number System - Number of Factors"
 				},
 				{
-					"trendId": 4,
+					"trendId": 9,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
@@ -93,7 +93,7 @@
 					"topic": "Test on Number System"
 				},
 				{
-					"trendId": 5,
+					"trendId": 10,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
