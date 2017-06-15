@@ -51,6 +51,57 @@
 					"topic": "Using Operators - I"
 				}
 			]
+		},
+		{
+			"chapterId": 2,
+			"chapterName": "Quantitative Aptitude",
+			"topics": [
+				{
+					"trendId": 1,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "SEED_QA_Bot B1_Number System_1",
+					"topic": "Number System - Divisibility Rules"
+				},
+				{
+					"trendId": 2,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B2_Number System_2",
+					"topic": "Number System - Power Cycle"
+				},
+				{
+					"trendId": 3,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B3_Number System_3",
+					"topic": "Number System - Number of Factors"
+				},
+				{
+					"trendId": 4,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B4_Number System_4",
+					"topic": "Test on Number System"
+				},
+				{
+					"trendId": 5,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B5_Percentage_1",
+					"topic": "Percentage - Question Types 1-5"
+				}
+			]
 		}
 	]
 }
