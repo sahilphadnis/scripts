@@ -103,5 +103,47 @@
 				}
 			]
 		}
+		{
+			"chapterId": 3,
+			"chapterName": "Object-oriented Programming",
+			"topics": [
+				{
+					"trendId": 11,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_bot_01",
+					"topic": "Abstraction and Encapsulation"
+				},
+				{
+					"trendId": 12,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_bot_02",
+					"topic": "Inheritance and Polymorphism"
+				},
+				{
+					"trendId": 13,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_bot_03",
+					"topic": "Aggregation and Containment"
+				},
+				{
+					"trendId": 14,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_Test1_bot_01",
+					"topic": "Test on OOPs concepts"
+				}
+			]
+		}
 	]
 }
