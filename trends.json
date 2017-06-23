@@ -559,7 +559,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "bot_learner_onboarding_v2",
+          "botFileName": "bot_learner_onboarding",
           "topic": "How Sling Works"
         }
       ]
