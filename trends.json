@@ -2,6 +2,129 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 42,
+      "chapterName": "Jio Store Experience Study",
+      "topics": [
+        {
+          "trendId": 654,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_utq_bot_01",
+          "topic": "Understanding the Questionnaire"
+        },
+        {
+          "trendId": 655,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_utq_approaching_bot_01",
+          "topic": "Approaching a Customer"
+        },
+        {
+          "trendId": 656,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q01_q03_bot_01",
+          "topic": "Questions 01 to 03"
+        },
+        {
+          "trendId": 657,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q04_q06_bot_01",
+          "topic": "Questions 04 to 06"
+        },
+        {
+          "trendId": 658,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q07_q08_bot_01",
+          "topic": "Questions 07 and 08"
+        },
+        {
+          "trendId": 659,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q09_bot_01",
+          "topic": "Question 09"
+        },
+        {
+          "trendId": 660,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q10_11_bot_01",
+          "topic": "Questions 10 and 11"
+        },
+        {
+          "trendId": 661,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q12_bot_01",
+          "topic": "Question 12"
+        },
+        {
+          "trendId": 662,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q13_bot_01",
+          "topic": "Question 13"
+        },
+        {
+          "trendId": 663,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q14_15_bot_01",
+          "topic": "Questions 14 and 15"
+        },
+        {
+          "trendId": 664,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q16_17_bot_01",
+          "topic": "Questions 16 and 17"
+        },
+        {
+          "trendId": 665,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q18_bot_01",
+          "topic": "Question 18"
+        },
+        {
+          "trendId": 666,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q19_part01_bot_01",
+          "topic": "Question 19 (Part 01)"
+        }
+      ]   
+    },
+    {
       "chapterId": 43,
       "chapterName": "How to be at work",
       "topics": [
