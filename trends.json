@@ -6,7 +6,7 @@
       "chapterName": "Jio Store Experience Study",
       "topics": [
         {
-          "trendId": 654,
+          "trendId": 648,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -15,7 +15,7 @@
           "topic": "Understanding the Questionnaire"
         },
         {
-          "trendId": 655,
+          "trendId": 649,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -24,7 +24,7 @@
           "topic": "Approaching a Customer"
         },
         {
-          "trendId": 656,
+          "trendId": 650,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -33,7 +33,7 @@
           "topic": "Questions 01 to 03"
         },
         {
-          "trendId": 657,
+          "trendId": 651,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -42,7 +42,7 @@
           "topic": "Questions 04 to 06"
         },
         {
-          "trendId": 658,
+          "trendId": 652,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -51,7 +51,7 @@
           "topic": "Questions 07 and 08"
         },
         {
-          "trendId": 659,
+          "trendId": 653,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -60,7 +60,7 @@
           "topic": "Question 09"
         },
         {
-          "trendId": 660,
+          "trendId": 654,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -69,7 +69,7 @@
           "topic": "Questions 10 and 11"
         },
         {
-          "trendId": 661,
+          "trendId": 655,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -78,7 +78,7 @@
           "topic": "Question 12"
         },
         {
-          "trendId": 662,
+          "trendId": 656,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -87,7 +87,7 @@
           "topic": "Question 13"
         },
         {
-          "trendId": 663,
+          "trendId": 657,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -96,7 +96,7 @@
           "topic": "Questions 14 and 15"
         },
         {
-          "trendId": 664,
+          "trendId": 658,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -105,7 +105,7 @@
           "topic": "Questions 16 and 17"
         },
         {
-          "trendId": 665,
+          "trendId": 659,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
@@ -114,13 +114,67 @@
           "topic": "Question 18"
         },
         {
-          "trendId": 666,
+          "trendId": 660,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
           "botFileName": "ril_jses_en_q19_part01_bot_01",
           "topic": "Question 19 (Part 01)"
+        },
+        {
+          "trendId": 661,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q19_part02_bot_01",
+          "topic": "Question 19 (Part 02)"
+        },
+        {
+          "trendId": 662,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q19_part03_bot_01",
+          "topic": "Question 19 (Part 03)"
+        },
+        {
+          "trendId": 663,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q20_bot_01",
+          "topic": "Question 20"
+        },
+        {
+          "trendId": 664,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q21_22_bot_01",
+          "topic": "Questions 21 and 22"
+        },
+        {
+          "trendId": 665,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_q23_24_bot_01",
+          "topic": "Questions 23 and 24"
+        },
+        {
+          "trendId": 666,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_en_ending_the_interview_bot_01",
+          "topic": "Ending the Interview"
         }
       ]   
     },
