@@ -49,6 +49,33 @@
 					"isSeparator": 0,
 					"botFileName": "seed_BasicOperators1_bot_01",
 					"topic": "Using Operators - I"
+				},
+				{
+					"trendId": 6,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_BasicOperators2_bot_01",
+					"topic": "Using Operators - II"
+				},
+				{
+					"trendId": 7,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SQLFunctionsI_bot_01",
+					"topic": "SQL Functions I"
+				},
+				{
+					"trendId": 8,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SQLFunctionsII_bot_01",
+					"topic": "SQL Functions II"
 				}
 			]
 		},
@@ -57,7 +84,7 @@
 			"chapterName": "Quantitative Aptitude",
 			"topics": [
 				{
-					"trendId": 6,
+					"trendId": 9,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -66,7 +93,7 @@
 					"topic": "Number System - Divisibility Rules"
 				},
 				{
-					"trendId": 7,
+					"trendId": 10,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -75,7 +102,7 @@
 					"topic": "Number System - Power Cycle"
 				},
 				{
-					"trendId": 8,
+					"trendId": 11,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -84,7 +111,7 @@
 					"topic": "Number System - Number of Factors"
 				},
 				{
-					"trendId": 9,
+					"trendId": 12,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
@@ -93,13 +120,40 @@
 					"topic": "Test on Number System"
 				},
 				{
-					"trendId": 10,
+					"trendId": 13,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"botFileName": "seed_QA_B5_Percentage_1",
 					"topic": "Percentage - Question Types 1-5"
+				},
+				{
+					"trendId": 14,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B6_Percentage_2",
+					"topic": "Successive Percentage Change"
+				},
+				{
+					"trendId": 15,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B7_Percentage_3",
+					"topic": "Percentage - Question Types 1-5"
+				},
+				{
+					"trendId": 16,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B8_Ratio_1",
+					"topic": "Ratio"
 				}
 			]
 		},
@@ -108,7 +162,7 @@
 			"chapterName": "Object-oriented Programming",
 			"topics": [
 				{
-					"trendId": 11,
+					"trendId": 17,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -117,7 +171,7 @@
 					"topic": "Abstraction and Encapsulation"
 				},
 				{
-					"trendId": 12,
+					"trendId": 18,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -126,7 +180,7 @@
 					"topic": "Inheritance and Polymorphism"
 				},
 				{
-					"trendId": 13,
+					"trendId": 19,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -135,7 +189,49 @@
 					"topic": "Aggregation and Containment"
 				},
 				{
-					"trendId": 14,
+					"trendId": 20,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_Test1_bot_01",
+					"topic": "Test on OOPs concepts"
+				}
+			]
+		},
+		{
+			"chapterId": 4,
+			"chapterName": "Latest Technologies",
+			"topics": [
+				{
+					"trendId": 21,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_bot_01",
+					"topic": "Cloud Computing"
+				},
+				{
+					"trendId": 22,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_bot_02",
+					"topic": "Big Data"
+				},
+				{
+					"trendId": 23,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_bot_03",
+					"topic": "Aggregation and Containment"
+				},
+				{
+					"trendId": 20,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
