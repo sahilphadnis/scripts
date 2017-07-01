@@ -2,6 +2,120 @@
   "productId": 3,
   "chapters": [
     {
+      "chapterId": 49,
+      "chapterName": "Jio Store Experience Study: Practice",
+      "topics": [
+        {
+          "trendId": 689,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_important_instructions_bot_01",
+          "topic": "Important Instructions"
+        },
+        {
+          "trendId": 690,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_approach_bot_01",
+          "topic": "Approach the customer"
+        },
+        {
+          "trendId": 691,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q1_q5_01",
+          "topic": "Practice: Q1 to Q5"
+        },
+        {
+          "trendId": 692,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q6_q8_01",
+          "topic": "Practice: Q6 to Q8"
+        },
+        {
+          "trendId": 693,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q9_q12_01",
+          "topic": "Practice: Q9 to Q12"
+        },
+        {
+          "trendId": 694,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q13_q15_01",
+          "topic": "Practice: Q13 to Q15"
+        },
+        {
+          "trendId": 695,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q16_q18_01",
+          "topic": "Practice: Q16 to Q18"
+        },
+        {
+          "trendId": 696,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q19_01",
+          "topic": "Practice: Q19"
+        },
+        {
+          "trendId": 697,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q20_q22_01",
+          "topic": "Practice: Q20 to Q22"
+        },
+        {
+          "trendId": 698,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_q23_q24_01",
+          "topic": "Practice: Q23 and Q24"
+        },
+        {
+          "trendId": 699,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_en_ending_01",
+          "topic": "Practice: Ending the Interview"
+        },
+        {
+          "trendId": 700,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "ril_jses_practice_check_01",
+          "topic": "Check Your Answers"
+        }
+      ]
+    },
+    {
       "chapterId": 50,
       "chapterName": "Starting Service",
       "topics": [
