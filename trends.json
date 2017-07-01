@@ -2,547 +2,17 @@
   "productId": 3,
   "chapters": [
     {
-      "chapterId": 42,
-      "chapterName": "Jio Store Experience Study",
-      "topics": [
-        {
-          "trendId": 648,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_utq_bot_01",
-          "topic": "Understanding the Questionnaire"
-        },
-        {
-          "trendId": 649,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_utq_approaching_bot_01",
-          "topic": "Approaching a Customer"
-        },
-        {
-          "trendId": 650,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q01_q03_bot_01",
-          "topic": "Questions 01 to 03"
-        },
-        {
-          "trendId": 651,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q04_q06_bot_01",
-          "topic": "Questions 04 to 06"
-        },
-        {
-          "trendId": 652,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q07_q08_bot_01",
-          "topic": "Questions 07 and 08"
-        },
-        {
-          "trendId": 653,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q09_bot_01",
-          "topic": "Question 09"
-        },
-        {
-          "trendId": 654,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q10_11_bot_01",
-          "topic": "Questions 10 and 11"
-        },
-        {
-          "trendId": 655,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q12_bot_01",
-          "topic": "Question 12"
-        },
-        {
-          "trendId": 656,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q13_bot_01",
-          "topic": "Question 13"
-        },
-        {
-          "trendId": 657,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q14_15_bot_01",
-          "topic": "Questions 14 and 15"
-        },
-        {
-          "trendId": 658,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q16_17_bot_01",
-          "topic": "Questions 16 and 17"
-        },
-        {
-          "trendId": 659,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q18_bot_01",
-          "topic": "Question 18"
-        },
-        {
-          "trendId": 660,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q19_part01_bot_01",
-          "topic": "Question 19 (Part 01)"
-        },
-        {
-          "trendId": 661,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q19_part02_bot_01",
-          "topic": "Question 19 (Part 02)"
-        },
-        {
-          "trendId": 662,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q19_part03_bot_01",
-          "topic": "Question 19 (Part 03)"
-        },
-        {
-          "trendId": 663,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q20_bot_01",
-          "topic": "Question 20"
-        },
-        {
-          "trendId": 664,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q21_22_bot_01",
-          "topic": "Questions 21 and 22"
-        },
-        {
-          "trendId": 665,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_q23_24_bot_01",
-          "topic": "Questions 23 and 24"
-        },
-        {
-          "trendId": 666,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ril_jses_en_ending_the_interview_bot_01",
-          "topic": "Ending the Interview"
-        }
-      ]   
-    },
-    {
-      "chapterId": 43,
-      "chapterName": "How to be at work",
-      "topics": [
-        {
-          "trendId": 667,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_personal_hygiene_bot_01",
-          "topic": "Personal Hygiene"
-        },
-        {
-          "trendId": 668,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_grooming_bot_01",
-          "topic": "Grooming"
-        },
-        {
-          "trendId": 669,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_work_hygiene_bot_01",
-          "topic": "Work Hygiene"
-        },
-        {
-          "trendId": 670,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_body_language_bot_01",
-          "topic": "Body Language"
-        },
-        {
-          "trendId": 671,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_personal_conduct_bot_01",
-          "topic": "Personal Conduct"
-        },
-        {
-          "trendId": 672,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_communication_bot_01",
-          "topic": "Communication"
-        }
-      ]
-    },
-    {
-      "chapterId": 44,
-      "chapterName": "Housekeeping Equipment",
-      "topics": [
-        {
-          "trendId": 673,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_housekeeping_equipment_01_bot_01",
-          "topic": "Housekeeping Equipment 01"
-        },
-        {
-          "trendId": 674,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_housekeeping_equipment_02_bot_01",
-          "topic": "Housekeeping Equipment 02"
-        },
-        {
-          "trendId": 675,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_housekeeping_equipment_03_bot_01",
-          "topic": "Housekeeping Equipment 03"
-        },
-        {
-          "trendId": 676,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_chemicals_used_bot_01",
-          "topic": "Chemicals Used"
-        }
-      ]
-    },
-    {
-      "chapterId": 45,
-      "chapterName": "Housekeeping Processes",
-      "topics": [
-        {
-          "trendId": 677,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_dry_mopping_bot_01",
-          "topic": "Dry Mopping"
-        },
-        {
-          "trendId": 678,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_wet_mopping_bot_01",
-          "topic": "Wet Mopping"
-        },
-        {
-          "trendId": 679,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_cleaning_toilets_bot_01",
-          "topic": "Cleaning Toilets"
-        },
-        {
-          "trendId": 680,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_cleaning_glass_bot_01",
-          "topic": "Cleaning Glass"
-        }
-      ]
-    },
-    {
-      "chapterId": 46,
-      "chapterName": "Pantry Staff",
-      "topics": [
-        {
-          "trendId": 681,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_pantry_staff_grooming_bot_01",
-          "topic": "Pantry Staff Grooming"
-        },
-        {
-          "trendId": 682,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_pantry_staff_etiquette_bot_01",
-          "topic": "Pantry Staff Etiquette"
-        },
-        {
-          "trendId": 683,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_service_techniques_bot_01",
-          "topic": "Service Techniques"
-        },
-        {
-          "trendId": 684,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_room_setup_bot_01",
-          "topic": "Room Setup"
-        },
-        {
-          "trendId": 685,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_taking_orders_bot_01",
-          "topic": "Taking Orders"
-        },
-        {
-          "trendId": 686,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_customer_satisfaction_bot_01",
-          "topic": "Customer Satisfaction"
-        }
-      ]
-    },
-    {
-      "chapterId": 47,
-      "chapterName": "Points to Remember",
-      "topics": [
-        {
-          "trendId": 687,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_who_is_a_good_employee_bot_01",
-          "topic": "Who is a good employee?"
-        },
-        {
-          "trendId": 688,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_important_rules_to_remember_bot_01",
-          "topic": "Important Rules to Remember"
-        },
-        {
-          "trendId": 689,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "clr_mr_about_clr_bot_01",
-          "topic": "About CLR"
-        }
-      ]
-    },
-    {
-      "chapterId": 48,
-      "chapterName": "Taj Hotels: Housekeeping",
-      "topics": [
-        {
-          "trendId": 690,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_housekeeping_pretest_hi_bot_01",
-          "topic": "छोटी सी परीक्षा"
-        },
-        {
-          "trendId": 691,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_simple_greetings_hi_bot_01",
-          "topic": "स्वागत के कुछ आसान तरीकें"
-        },
-        {
-          "trendId": 692,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_housekeeping_etr_hi_bot_01",
-          "topic": "रूम में प्रवेश करना"
-        },
-        {
-          "trendId": 693,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_housekeeping_atq_hi_bot_01",
-          "topic": "गेस्ट से सवाल जवाब"
-        },
-        {
-          "trendId": 694,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_housekeeping_posttest_hi_bot_01",
-          "topic": "अब तक की सीख"
-        }
-      ]
-    },
-    {
-      "chapterId": 49,
-      "chapterName": "Taj Hotels: Security Associate",
-      "topics": [
-        {
-          "trendId": 695,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_security_associate_pretest_hi_bot_01",
-          "topic": "छोटी सी परीक्षा"
-        },
-        {
-          "trendId": 696,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_simple_greetings_hi_bot_01",
-          "topic": "स्वागत के कुछ आसान तरीकें"
-        },
-        {
-          "trendId": 697,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_sa_at_the_main_gate_hi_bot_01",
-          "topic": "मैन गेट पर"
-        },
-        {
-          "trendId": 698,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_sa_at_the_main_porch_hi_bot_01",
-          "topic": "मैन पोर्च में"
-        },
-        {
-          "trendId": 699,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "tajhotels_security_associate_posttest_hi_bot_01",
-          "topic": "अब तक की सीख"
-        }
-      ]
-    },
-    {
       "chapterId": 50,
-      "chapterName": "Hippocampus Level 01",
-      "topics": []
-    },
-    {
-      "chapterId": 51,
-      "chapterName": "Chapter 01",
+      "chapterName": "Starting Service",
       "topics": [
-        {
-          "trendId": 700,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "hipl1_introduction_bot_01",
-          "topic": "Introduction"
-        },
         {
           "trendId": 701,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_holidays_bot_01",
-          "topic": "Holidays"
+          "botFileName": "ilfs_rpl_hi_steward_n0301_bot_01",
+          "topic": "Plan and Prepare for Service"
         },
         {
           "trendId": 702,
@@ -550,17 +20,23 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_getting_started_bot_01",
-          "topic": "Getting Started"
-        },
+          "botFileName": "ilfs_rpl_hi_steward_n0302a_bot_01",
+          "topic": "Taking an Order"
+        }
+      ]
+    },
+    {
+      "chapterId": 51,
+      "chapterName": "Serving Drinks",
+      "topics": [
         {
           "trendId": 703,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_alphabet_bot_01",
-          "topic": "The Alphabet 01"
+          "botFileName": "ilfs_rpl_hi_steward_n0302b_bot_01",
+          "topic": "Serving Tea and Coffee"
         },
         {
           "trendId": 704,
@@ -568,23 +44,17 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_alphabet_bot_02",
-          "topic": "The Alphabet 02"
-        }
-      ]
-    },
-    {
-      "chapterId": 52,
-      "chapterName": "Chapter 02",
-      "topics": [
+          "botFileName": "ilfs_rpl_hi_steward_n0302c_bot_01",
+          "topic": "Serving Non-Alcoholic Drinks"
+        },
         {
           "trendId": 705,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_noisy_class_bot_01",
-          "topic": "Handling a Noisy Class"
+          "botFileName": "ilfs_rpl_hi_steward_n0302d_bot_01",
+          "topic": "Serving Alcoholic Drinks"
         },
         {
           "trendId": 706,
@@ -592,17 +62,23 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_students_answer_questions_bot_01",
-          "topic": "Students Answer Questions"
-        },
+          "botFileName": "ilfs_rpl_hi_steward_n0302e_bot_01",
+          "topic": "Serving Whisky and Beer"
+        }
+      ]
+    },
+    {
+      "chapterId": 52,
+      "chapterName": "Serving Food",
+      "topics": [
         {
           "trendId": 707,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_blackboard_bot_01",
-          "topic": "The Blackboard"
+          "botFileName": "ilfs_rpl_hi_steward_n0302f_bot_01",
+          "topic": "Serving Food"
         },
         {
           "trendId": 708,
@@ -610,8 +86,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_reading_story_bot_01",
-          "topic": "Reading a Story"
+          "botFileName": "ilfs_rpl_hi_steward_n0302g_bot_01",
+          "topic": "Serving Soup and Pasta"
         },
         {
           "trendId": 709,
@@ -619,14 +95,14 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_showing_objects_bot_01",
-          "topic": "Showing Objects"
+          "botFileName": "ilfs_rpl_hi_steward_n0302h_bot_01",
+          "topic": "Serving Dessert"
         }
       ]
     },
     {
       "chapterId": 53,
-      "chapterName": "Chapter 03",
+      "chapterName": "After the Meal",
       "topics": [
         {
           "trendId": 710,
@@ -634,8 +110,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_solving_math_sum_bot_01",
-          "topic": "Solving a Math Sum"
+          "botFileName": "ilfs_rpl_hi_steward_n0303a_bot_01",
+          "topic": "Clearing the Table"
         },
         {
           "trendId": 711,
@@ -643,8 +119,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_using_lego_blocks_bot_01",
-          "topic": "Using Lego Blocks"
+          "botFileName": "ilfs_rpl_hi_steward_n0303b_bot_01",
+          "topic": "Cleaning the Table"
         },
         {
           "trendId": 712,
@@ -652,17 +128,23 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_going_out_to_play_bot_01",
-          "topic": "Going out to Play"
-        },
+          "botFileName": "ilfs_rpl_hi_steward_n0304_bot_01",
+          "topic": "Collecting Payment"
+        }
+      ]
+    },
+    {
+      "chapterId": 54,
+      "chapterName": "Interacting with Guests",
+      "topics": [
         {
           "trendId": 713,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_returning_to_class_bot_01",
-          "topic": "Returning to the Classroom"
+          "botFileName": "ilfs_rpl_hi_steward_n0305a_bot_01",
+          "topic": "Complaints: Wrong Order"
         },
         {
           "trendId": 714,
@@ -670,23 +152,17 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_end_of_class_bot_01",
-          "topic": "End of Class"
-        }
-      ]
-    },
-    {
-      "chapterId": 54,
-      "chapterName": "Chapter 04",
-      "topics": [
+          "botFileName": "ilfs_rpl_hi_steward_n0305b_bot_01",
+          "topic": "Complaints: Slow Service"
+        },
         {
           "trendId": 715,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_final_instructions_bot_01",
-          "topic": "Final Instructions"
+          "botFileName": "ilfs_rpl_hi_steward_n0901a_bot_01",
+          "topic": "Interacting with Guests"
         },
         {
           "trendId": 716,
@@ -694,17 +170,23 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_outdoor_activities_bot_01",
-          "topic": "Outdoor Activities"
-        },
+          "botFileName": "ilfs_rpl_hi_steward_n0901b_bot_01",
+          "topic": "Escalating Problems"
+        }
+      ]
+    },
+    {
+      "chapterId": 55,
+      "chapterName": "Safety and Hygiene",
+      "topics": [
         {
           "trendId": 717,
           "isLockedTrend": 0,
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_simple_exercises_bot_01",
-          "topic": "Simple Exercises"
+          "botFileName": "ilfs_rpl_hi_steward_n0902_bot_01",
+          "topic": "Working Efficiently"
         },
         {
           "trendId": 718,
@@ -712,8 +194,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_classroom_activities_bot_01",
-          "topic": "Classroom Activities"
+          "botFileName": "ilfs_rpl_hi_steward_n0903a_bot_01",
+          "topic": "Maintaining Personal Hygiene"
         },
         {
           "trendId": 719,
@@ -721,41 +203,10 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "hipl1_encouraging_the_children_bot_01",
-          "topic": "Encouraging the Children"
-        }
-      ]
-    },
-        {
-      "chapterId": 55,
-      "chapterName": "How Sling Works",
-      "topics": [
-        {
-          "trendId": 720,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "bot_learner_onboarding",
-          "topic": "How Sling Works"
-        }
-      ]
-    },
-    {
-      "chapterId": 56,
-      "chapterName": "Portea",
-      "topics": [
-        {
-          "trendId": 721,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "portea_chemo_port_intro_bot_01",
-          "topic": "What is a Chemo Port?"
+          "botFileName": "ilfs_rpl_hi_steward_n0903b_bot_01",
+          "topic": "Maintaining Safety"
         }
       ]
     }
-    
   ]
 }
