@@ -329,7 +329,7 @@
     },
     {
       "chapterId": 57,
-      "chapterName": "Expressing Feelings",
+      "chapterName": "Talking About Work",
       "topics": [
         {
           "trendId": 720,
@@ -337,8 +337,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ec01_expressing_feelings_pretest_bot_01",
-          "topic": "A Quick Refresher"
+          "botFileName": "ec_work_roles_bot_01",
+          "topic": "Your job role"
         },
         {
           "trendId": 721,
@@ -346,8 +346,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ec_how_to_thank_someone_bot_01",
-          "topic": "How to thank someone"
+          "botFileName": "ec_work_workplace_bot_01",
+          "topic": "Your workplace"
         },
         {
           "trendId": 722,
@@ -355,77 +355,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ec_how_to_apologize_bot_01",
-          "topic": "How to Apologize"
-        },
-        {
-          "trendId": 723,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec_other_ways_nice_bot_01",
-          "topic": "Vocabulary: Nice"
-        },
-        {
-          "trendId": 724,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec01_expressing_feelings_posttest_bot_01",
-          "topic": "Let's Take a Test!"
-        }
-      ]
-    },
-    {
-      "chapterId": 58,
-      "chapterName": "Greetings",
-      "topics": [
-        {
-          "trendId": 725,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec01_greetings_pretest_bot_01",
-          "topic": "A Quick Refresher"
-        },
-        {
-          "trendId": 726,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec_saying_hello_bot_01",
-          "topic": "Saying Hello"
-        },
-        {
-          "trendId": 727,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec_introducing_yourself_bot_01",
-          "topic": "Introducing yourself"
-        },
-        {
-          "trendId": 728,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec_saying_goodbye_bot_01",
-          "topic": "Saying goodbye"
-        },
-        {
-          "trendId": 729,
-          "isLockedTrend": 0,
-          "isLearnBot": 1,
-          "isTestBot": 0,
-          "isSeparator": 0,
-          "botFileName": "ec01_greetings_posttest_bot_01",
-          "topic": "Let's Take a Test!"
+          "botFileName": "ec_work_future_aspirations_bot_01",
+          "topic": "Your future aspirations"
         }
       ]
     }
