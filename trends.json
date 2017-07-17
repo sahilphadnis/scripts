@@ -359,6 +359,21 @@
           "topic": "Your future aspirations"
         }
       ]
+    },
+    {
+      "chapterId": 58,
+      "chapterName": "Better Place Demo",
+      "topics": [
+        {
+          "trendId": 723,
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "botFileName": "bpusg_emergency_planning_bot_01",
+          "topic": "Emergency Planning"
+        }
+      ]
     }
   ]
 }
