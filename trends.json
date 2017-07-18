@@ -29,7 +29,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q1_q5_01",
+          "botFileName": "ril_jses_practice_en_q1_q5_bot_01",
           "topic": "Practice: Q1 to Q5"
         },
         {
@@ -38,7 +38,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q6_q8_01",
+          "botFileName": "ril_jses_practice_en_q6_q8_bot_01",
           "topic": "Practice: Q6 to Q8"
         },
         {
@@ -47,7 +47,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q9_q12_01",
+          "botFileName": "ril_jses_practice_en_q9_q12_bot_01",
           "topic": "Practice: Q9 to Q12"
         },
         {
@@ -56,7 +56,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q13_q15_01",
+          "botFileName": "ril_jses_practice_en_q13_q15_bot_01",
           "topic": "Practice: Q13 to Q15"
         },
         {
@@ -65,7 +65,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q16_q18_01",
+          "botFileName": "ril_jses_practice_en_q16_q18_bot_01",
           "topic": "Practice: Q16 to Q18"
         },
         {
@@ -74,7 +74,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q19_01",
+          "botFileName": "ril_jses_practice_en_q19_bot_01",
           "topic": "Practice: Q19"
         },
         {
@@ -83,7 +83,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q20_q22_01",
+          "botFileName": "ril_jses_practice_en_q20_q22_bot_01",
           "topic": "Practice: Q20 to Q22"
         },
         {
@@ -92,7 +92,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_q23_q24_01",
+          "botFileName": "ril_jses_practice_en_q23_q24_bot_01",
           "topic": "Practice: Q23 and Q24"
         },
         {
@@ -101,7 +101,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_en_ending_01",
+          "botFileName": "ril_jses_practice_en_ending_bot_01",
           "topic": "Practice: Ending the Interview"
         },
         {
@@ -110,7 +110,7 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "ril_jses_practice_check_01",
+          "botFileName": "ril_jses_practice_check_bot_01",
           "topic": "Check Your Answers"
         }
       ]
