@@ -66,7 +66,7 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"botFileName": "seed_SQLFunctionsI_bot_01",
-					"topic": "SQL Functions I"
+					"topic": "Mathematical & Chaarcter Functions"
 				},
 				{
 					"trendId": 8,
@@ -75,7 +75,61 @@
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"botFileName": "seed_SQLFunctionsII_bot_01",
-					"topic": "SQL Functions II"
+					"topic": "Date and Conveersion Functions"
+				},
+				{
+					"trendId": 9,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SQLFunctionsIII_bot_01",
+					"topic": "Special Functions"
+				},
+				{
+					"trendId": 10,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SQLFunctionsIV_bot_01",
+					"topic": "Group Functions"
+				},
+				{
+					"trendId": 11,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SQLFunctionsV_bot_01",
+					"topic": "Group By & Having"
+				},
+				{
+					"trendId": 12,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SubQueriesI_bot_01",
+					"topic": "Simple Sub-queries"
+				},
+				{
+					"trendId": 13,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_SubQueriesII_bot_01",
+					"topic": "Advanced Sub-queries"
+				},
+				{
+					"trendId": 14,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_DML_bot_01",
+					"topic": "DML"
 				}
 			]
 		},
@@ -84,7 +138,7 @@
 			"chapterName": "Quantitative Aptitude",
 			"topics": [
 				{
-					"trendId": 9,
+					"trendId": 22,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -93,7 +147,7 @@
 					"topic": "Number System - Divisibility Rules"
 				},
 				{
-					"trendId": 10,
+					"trendId": 23,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -102,7 +156,7 @@
 					"topic": "Number System - Power Cycle"
 				},
 				{
-					"trendId": 11,
+					"trendId": 24,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -111,7 +165,7 @@
 					"topic": "Number System - Number of Factors"
 				},
 				{
-					"trendId": 12,
+					"trendId": 25,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
@@ -120,7 +174,7 @@
 					"topic": "Test on Number System"
 				},
 				{
-					"trendId": 13,
+					"trendId": 26,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -129,7 +183,7 @@
 					"topic": "Percentage - Question Types 1-5"
 				},
 				{
-					"trendId": 14,
+					"trendId": 27,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -138,7 +192,7 @@
 					"topic": "Successive Percentage Change"
 				},
 				{
-					"trendId": 15,
+					"trendId": 28,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
@@ -147,13 +201,76 @@
 					"topic": "Percentage - Question Types 1-5"
 				},
 				{
-					"trendId": 16,
+					"trendId": 29,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
 					"isSeparator": 0,
 					"botFileName": "seed_QA_B8_Ratio_1",
 					"topic": "Ratio"
+				},
+				{
+					"trendId": 30,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B9_Ratio_2",
+					"topic": "CFM"
+				},
+				{
+					"trendId": 31,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B10_Ratio_3",
+					"topic": "Partnership"
+				},
+				{
+					"trendId": 32,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B11_Ratio_4",
+					"topic": "Test on Ratio"
+				},
+				{
+					"trendId": 33,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B12_HCF-LCM_1",
+					"topic": "HCF and LCM"
+				},
+				{
+					"trendId": 34,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B13_HCF-LCM_2",
+					"topic": "HCF & LCM - Fast Method"
+				},
+				{
+					"trendId": 35,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B14_HCF-LCM_3",
+					"topic": "HCF & LCM - Test"
+				},
+				{
+					"trendId": 36,
+					"isLockedTrend": 0,
+					"isLearnBot": 1,
+					"isTestBot": 0,
+					"isSeparator": 0,
+					"botFileName": "seed_QA_B15_T&W_1",
+					"topic": "Time & Work"
 				}
 			]
 		},
@@ -162,7 +279,7 @@
 			"chapterName": "Object-oriented Programming",
 			"topics": [
 				{
-					"trendId": 17,
+					"trendId": 65,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -171,7 +288,7 @@
 					"topic": "Abstraction and Encapsulation"
 				},
 				{
-					"trendId": 18,
+					"trendId": 66,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -180,7 +297,7 @@
 					"topic": "Inheritance and Polymorphism"
 				},
 				{
-					"trendId": 19,
+					"trendId": 67,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -189,13 +306,49 @@
 					"topic": "Aggregation and Containment"
 				},
 				{
-					"trendId": 20,
+					"trendId": 68,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
 					"isSeparator": 0,
 					"botFileName": "seed_OOPs_Test1_bot_01",
 					"topic": "Test on OOPs concepts"
+				},
+				{
+					"trendId": 69,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_OOPs_test_CPP_bot_01",
+					"topic": "Test on OOPs concepts"
+				},
+				{
+					"trendId": 70,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_WritingClass_CPP_bot_01",
+					"topic": "Writing a class"
+				},
+				{
+					"trendId": 71,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "seed_MemberFunctions_CPP_bot_01",
+					"topic": "Member Functions"
+				},
+				{
+					"trendId": 71,
+					"isLockedTrend": 0,
+					"isLearnBot": 0,
+					"isTestBot": 1,
+					"isSeparator": 0,
+					"botFileName": "sseed_Static_CPP_bot_01",
+					"topic": "static & Function Overloading"
 				}
 			]
 		},
@@ -204,7 +357,7 @@
 			"chapterName": "Latest Technologies",
 			"topics": [
 				{
-					"trendId": 21,
+					"trendId": 90,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -213,7 +366,7 @@
 					"topic": "Cloud Computing"
 				},
 				{
-					"trendId": 22,
+					"trendId": 91,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -222,7 +375,7 @@
 					"topic": "Big Data"
 				},
 				{
-					"trendId": 23,
+					"trendId": 92,
 					"isLockedTrend": 0,
 					"isLearnBot": 1,
 					"isTestBot": 0,
@@ -231,7 +384,7 @@
 					"topic": "Aggregation and Containment"
 				},
 				{
-					"trendId": 20,
+					"trendId": 93,
 					"isLockedTrend": 0,
 					"isLearnBot": 0,
 					"isTestBot": 1,
