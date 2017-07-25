@@ -362,7 +362,7 @@
     },
     {
       "chapterId": 58,
-      "chapterName": "Better Place Demo",
+      "chapterName": "CoG Demo",
       "topics": [
         {
           "trendId": 723,
@@ -370,8 +370,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "bpusg_emergency_planning_bot_01",
-          "topic": "Emergency Planning"
+          "botFileName": "cog_survey_demo_bot_01",
+          "topic": "Demo"
         }
       ]
     }
