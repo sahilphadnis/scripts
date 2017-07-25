@@ -58,6 +58,15 @@
           "isTestBot": 0,
           "isSeparator": 0,
           "topic": "Burmese"
+        },
+         {
+          "trendId": 9111,
+          "botFileName": "bpusg_emergency_planning_bot_01",
+          "isLockedTrend": 0,
+          "isLearnBot": 1,
+          "isTestBot": 0,
+          "isSeparator": 0,
+          "topic": "Bubble Hyphen Bug Bot"
         }
       ]
     }
