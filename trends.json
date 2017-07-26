@@ -362,7 +362,7 @@
     },
     {
       "chapterId": 58,
-      "chapterName": "CoG Demo",
+      "chapterName": "sls financial literacy",
       "topics": [
         {
           "trendId": 723,
@@ -370,8 +370,8 @@
           "isLearnBot": 1,
           "isTestBot": 0,
           "isSeparator": 0,
-          "botFileName": "cog_survey_demo_bot_01",
-          "topic": "Demo"
+          "botFileName": "sls_fl_en_quick_test_bot_01",
+          "topic": "try this quick test"
         }
       ]
     }
